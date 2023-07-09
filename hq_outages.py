@@ -72,24 +72,27 @@ def parse_datetime(s: str):
 def fill_output(data):
     out = []
     outages = dict(
+        time_stamp="",
         num_of_customers="",
         start_time="",
         expected_end_time="",
-        longitude="",
         latitude="",
+        longitude="",
         outage_status="",
         ignore="",
         cause_of_outage="",
         municipality="",
         code="",
     )
+    time_now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
     for p in data["pannes"]:
+        outages["time_stamp"] = time_now
         outages["num_of_customers"] = p[0]
         outages["start_time"] = p[1]
         outages["expected_end_time"] = p[2]
-        outages["latitude"] = ast.literal_eval(p[4])[0]
-        outages["longitude"] = ast.literal_eval(p[4])[1]
+        outages["longitude"] = ast.literal_eval(p[4])[0]
+        outages["latitude"] = ast.literal_eval(p[4])[1]
         outages["outage_status"] = outage_status[p[5]]
         outages["ignore"] = p[6]
         outages["cause_of_outage"] = find_key(p[7])
@@ -107,5 +110,5 @@ if __name__ == "__main__":
         f"http://pannes.hydroquebec.com/pannes/donnees/v3_0/bismarkers{time_stamp}.json"
     )
     scraped_data = fill_output(data)
-    with open("outages_data.json", "w") as f:
+    with open("outages.json", "w") as f:
         f.write(json.dumps(scraped_data, indent=4, ensure_ascii=False))
