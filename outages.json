@@ -1,19 +1,45 @@
 [
     {
-        "time_stamp": "2023-08-22 09:08:09",
-        "num_of_customers": 3,
-        "start_time": "2023-08-22 03:17:59",
-        "expected_end_time": "2023-08-22 06:45:00",
-        "latitude": 45.68621130532694,
-        "longitude": -74.26977575320412,
+        "time_stamp": "2023-08-22 10:08:34",
+        "num_of_customers": 79,
+        "start_time": "2023-08-22 05:35:26",
+        "expected_end_time": "2023-08-22 07:15:00",
+        "latitude": 45.507397029650654,
+        "longitude": -73.55902063300121,
         "outage_status": "Crew at work",
-        "ignore": "1",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "4125",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1000",
         "code": ""
     },
     {
-        "time_stamp": "2023-08-22 09:08:09",
+        "time_stamp": "2023-08-22 10:08:34",
+        "num_of_customers": 5,
+        "start_time": "2023-08-22 05:32:17",
+        "expected_end_time": "2023-08-22 07:15:00",
+        "latitude": 45.60638570000237,
+        "longitude": -73.43200478703893,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1460",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-08-22 10:08:34",
+        "num_of_customers": 92,
+        "start_time": "2023-08-22 05:53:14",
+        "expected_end_time": "",
+        "latitude": 46.71646073980579,
+        "longitude": -71.2755668227149,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "1778",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-08-22 10:08:34",
         "num_of_customers": 1,
         "start_time": "2023-08-21 13:11:54",
         "expected_end_time": "",
@@ -23,19 +49,6 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "7821",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-08-22 09:08:09",
-        "num_of_customers": 29,
-        "start_time": "2023-08-22 01:53:26",
-        "expected_end_time": "2023-08-22 05:45:00",
-        "latitude": 45.66873255734144,
-        "longitude": -71.92370822608127,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "6330",
         "code": ""
     }
 ]
