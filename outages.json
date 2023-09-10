@@ -1,19 +1,19 @@
 [
     {
-        "time_stamp": "2023-09-10 02:16:13",
+        "time_stamp": "2023-09-10 03:08:17",
         "num_of_customers": 12,
         "start_time": "2023-09-09 20:09:44",
         "expected_end_time": "2023-09-10 02:45:00",
         "latitude": 50.271496487303246,
         "longitude": -63.60731140613941,
         "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
         "municipality": "2582",
         "code": ""
     },
     {
-        "time_stamp": "2023-09-10 02:16:13",
+        "time_stamp": "2023-09-10 03:08:17",
         "num_of_customers": 17,
         "start_time": "2023-09-09 19:47:10",
         "expected_end_time": "",
@@ -26,7 +26,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-10 02:16:13",
+        "time_stamp": "2023-09-10 03:08:17",
         "num_of_customers": 6,
         "start_time": "2023-09-09 21:34:39",
         "expected_end_time": "2023-09-09 23:30:00",
@@ -39,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-10 02:16:13",
+        "time_stamp": "2023-09-10 03:08:17",
         "num_of_customers": 12,
         "start_time": "2023-09-09 19:03:02",
         "expected_end_time": "",
@@ -52,16 +52,29 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-10 02:16:13",
+        "time_stamp": "2023-09-10 03:08:17",
         "num_of_customers": 257,
         "start_time": "2023-09-09 21:36:57",
-        "expected_end_time": "",
+        "expected_end_time": "2023-09-09 23:45:00",
         "latitude": 45.72969679898728,
         "longitude": -73.610903472019,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "6972",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-10 03:08:17",
+        "num_of_customers": 1,
+        "start_time": "2023-09-09 21:56:05",
+        "expected_end_time": "2023-09-10 00:00:00",
+        "latitude": 45.50227128336358,
+        "longitude": -73.57400155613554,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1000",
         "code": ""
     }
 ]
