@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-09-22 01:42:00",
+        "time_stamp": "2023-09-22 02:15:25",
         "num_of_customers": 39,
         "start_time": "2023-09-21 16:03:00",
         "expected_end_time": "2023-09-21 22:15:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-22 01:42:00",
+        "time_stamp": "2023-09-22 02:15:25",
         "num_of_customers": 3379,
         "start_time": "2023-09-21 20:55:44",
         "expected_end_time": "2023-09-21 23:00:00",
@@ -26,16 +26,42 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-22 01:42:00",
-        "num_of_customers": 6,
-        "start_time": "2023-09-21 20:08:18",
-        "expected_end_time": "2023-09-21 22:00:00",
-        "latitude": 45.44686654904155,
-        "longitude": -75.7491788806906,
+        "time_stamp": "2023-09-22 02:15:25",
+        "num_of_customers": 4,
+        "start_time": "2023-09-21 21:01:05",
+        "expected_end_time": "2023-09-22 03:15:00",
+        "latitude": 45.41644235223338,
+        "longitude": -72.7555126195469,
         "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Damage caused by an animal",
-        "municipality": "2642",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "2420",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-22 02:15:25",
+        "num_of_customers": 2,
+        "start_time": "2023-09-21 21:16:27",
+        "expected_end_time": "",
+        "latitude": 46.6854489740398,
+        "longitude": -71.0379499970028,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6969",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-22 02:15:25",
+        "num_of_customers": 747,
+        "start_time": "2023-09-21 21:39:27",
+        "expected_end_time": "2023-09-22 02:15:00",
+        "latitude": 48.662383957582904,
+        "longitude": -71.80009813386367,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "3834",
         "code": ""
     }
 ]
