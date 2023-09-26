@@ -1,19 +1,32 @@
 [
     {
-        "time_stamp": "2023-09-26 10:09:03",
+        "time_stamp": "2023-09-26 11:07:12",
+        "num_of_customers": 107,
+        "start_time": "2023-09-26 06:16:32",
+        "expected_end_time": "2023-09-26 08:15:00",
+        "latitude": 45.42666116473643,
+        "longitude": -73.60670949734056,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "0107",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-26 11:07:12",
         "num_of_customers": 2,
         "start_time": "2023-09-25 10:18:59",
         "expected_end_time": "",
         "latitude": 45.77949703946125,
         "longitude": -73.83120919479461,
-        "outage_status": "NA",
+        "outage_status": "Crew at work",
         "ignore": "1",
         "cause_of_outage": "Equipment failure",
         "municipality": "8500",
         "code": ""
     },
     {
-        "time_stamp": "2023-09-26 10:09:03",
+        "time_stamp": "2023-09-26 11:07:12",
         "num_of_customers": 314,
         "start_time": "2023-09-25 23:02:13",
         "expected_end_time": "2023-09-26 12:15:00",
@@ -26,10 +39,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-26 10:09:03",
+        "time_stamp": "2023-09-26 11:07:12",
+        "num_of_customers": 199,
+        "start_time": "2023-09-26 06:30:25",
+        "expected_end_time": "2023-09-26 09:45:00",
+        "latitude": 48.4059977538704,
+        "longitude": -77.79008399270376,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "1257",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-26 11:07:12",
         "num_of_customers": 1760,
         "start_time": "2023-09-26 05:51:37",
-        "expected_end_time": "",
+        "expected_end_time": "2023-09-26 07:45:00",
         "latitude": 45.529312735694674,
         "longitude": -73.84547917887748,
         "outage_status": "Work assigned",
