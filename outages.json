@@ -1,19 +1,19 @@
 [
     {
-        "time_stamp": "2023-09-28 10:08:39",
+        "time_stamp": "2023-09-28 11:06:51",
         "num_of_customers": 8,
         "start_time": "2023-09-28 05:36:27",
-        "expected_end_time": "",
+        "expected_end_time": "2023-09-28 07:45:00",
         "latitude": 45.12041104019421,
         "longitude": -74.19551573202683,
-        "outage_status": "Work assigned",
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "2405",
         "code": ""
     },
     {
-        "time_stamp": "2023-09-28 10:08:39",
+        "time_stamp": "2023-09-28 11:06:51",
         "num_of_customers": 5,
         "start_time": "2023-09-28 00:25:59",
         "expected_end_time": "2023-09-28 09:15:00",
@@ -26,16 +26,42 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-09-28 10:08:39",
+        "time_stamp": "2023-09-28 11:06:51",
         "num_of_customers": 155,
         "start_time": "2023-09-28 04:55:54",
         "expected_end_time": "2023-09-28 07:15:00",
         "latitude": 46.7976965643316,
         "longitude": -71.97906375977806,
         "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "8596",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-28 11:06:51",
+        "num_of_customers": 22,
+        "start_time": "2023-09-28 06:16:45",
+        "expected_end_time": "2023-09-28 08:15:00",
+        "latitude": 48.35042318041994,
+        "longitude": -64.69593286044312,
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
-        "municipality": "8596",
+        "municipality": "1748",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-09-28 11:06:51",
+        "num_of_customers": 22,
+        "start_time": "2023-09-28 06:38:05",
+        "expected_end_time": "",
+        "latitude": 45.51489704941452,
+        "longitude": -73.43629825129088,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7011",
         "code": ""
     }
 ]
