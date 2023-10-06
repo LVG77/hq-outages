@@ -1,9 +1,9 @@
 [
     {
-        "time_stamp": "2023-10-06 10:08:46",
+        "time_stamp": "2023-10-06 11:07:09",
         "num_of_customers": 5,
         "start_time": "2023-10-06 05:52:44",
-        "expected_end_time": "",
+        "expected_end_time": "2023-10-06 08:00:00",
         "latitude": 45.853564554426505,
         "longitude": -73.48090035892287,
         "outage_status": "NA",
@@ -13,20 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-10-06 10:08:46",
-        "num_of_customers": 11,
-        "start_time": "2023-10-06 03:28:25",
-        "expected_end_time": "2023-10-06 07:15:00",
-        "latitude": 45.545441517203066,
-        "longitude": -72.19731269052,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "4614",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-10-06 10:08:46",
+        "time_stamp": "2023-10-06 11:07:09",
         "num_of_customers": 2,
         "start_time": "2023-10-06 05:00:01",
         "expected_end_time": "2023-10-06 07:45:00",
@@ -39,16 +26,42 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-10-06 10:08:46",
-        "num_of_customers": 10,
-        "start_time": "2023-10-06 04:12:36",
-        "expected_end_time": "2023-10-06 06:15:00",
-        "latitude": 46.08704620378474,
-        "longitude": -74.52348524413945,
-        "outage_status": "Crew on the way",
+        "time_stamp": "2023-10-06 11:07:09",
+        "num_of_customers": 1418,
+        "start_time": "2023-10-06 06:10:25",
+        "expected_end_time": "2023-10-06 08:15:00",
+        "latitude": 48.17686034734533,
+        "longitude": -77.6872564840013,
+        "outage_status": "NA",
+        "ignore": "5",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "9266",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-10-06 11:07:09",
+        "num_of_customers": 14,
+        "start_time": "2023-10-06 06:43:44",
+        "expected_end_time": "",
+        "latitude": 48.42765145758832,
+        "longitude": -68.52307429181761,
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
-        "municipality": "5802",
+        "municipality": "5512",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-10-06 11:07:09",
+        "num_of_customers": 45,
+        "start_time": "2023-10-06 06:28:22",
+        "expected_end_time": "2023-10-06 08:30:00",
+        "latitude": 45.54100793020162,
+        "longitude": -73.60172441569922,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1000",
         "code": ""
     }
 ]
