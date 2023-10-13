@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-10-13 04:10:20",
+        "time_stamp": "2023-10-13 05:08:18",
         "num_of_customers": 1,
         "start_time": "2023-10-12 23:37:28",
         "expected_end_time": "2023-10-13 03:15:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-10-13 04:10:20",
+        "time_stamp": "2023-10-13 05:08:18",
         "num_of_customers": 19,
         "start_time": "2023-10-12 21:07:07",
         "expected_end_time": "",
@@ -26,75 +26,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-10-13 04:10:20",
+        "time_stamp": "2023-10-13 05:08:18",
         "num_of_customers": 1,
         "start_time": "2023-10-12 23:08:34",
         "expected_end_time": "2023-10-13 01:30:00",
         "latitude": 45.01476339756584,
         "longitude": -73.90019996550222,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "2345",
         "code": ""
     },
     {
-        "time_stamp": "2023-10-13 04:10:20",
-        "num_of_customers": 2,
-        "start_time": "2023-10-12 22:24:49",
-        "expected_end_time": "2023-10-13 00:30:00",
-        "latitude": 46.339448133244886,
-        "longitude": -72.4565872336696,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "1314",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-10-13 04:10:20",
-        "num_of_customers": 54,
-        "start_time": "2023-10-12 20:06:14",
-        "expected_end_time": "",
-        "latitude": 45.53356685285968,
-        "longitude": -73.63951585471956,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "1000",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-10-13 04:10:20",
-        "num_of_customers": 31,
-        "start_time": "2023-10-12 20:06:14",
-        "expected_end_time": "",
-        "latitude": 45.533475671548544,
-        "longitude": -73.63916420015047,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "1000",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-10-13 04:10:20",
-        "num_of_customers": 78,
-        "start_time": "2023-10-12 23:25:35",
-        "expected_end_time": "2023-10-13 03:15:00",
-        "latitude": 49.03491229466621,
-        "longitude": -71.63736254740823,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Damage due to vegetation",
-        "municipality": "7500",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-10-13 04:10:20",
+        "time_stamp": "2023-10-13 05:08:18",
         "num_of_customers": 293,
         "start_time": "2023-10-12 23:45:42",
-        "expected_end_time": "",
+        "expected_end_time": "2023-10-13 01:30:00",
         "latitude": 45.52571804602097,
         "longitude": -73.54855651958229,
         "outage_status": "NA",
@@ -104,15 +52,28 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-10-13 04:10:20",
+        "time_stamp": "2023-10-13 05:08:18",
+        "num_of_customers": 194,
+        "start_time": "2023-10-12 20:06:14",
+        "expected_end_time": "2023-10-13 04:30:00",
+        "latitude": 45.53362847895498,
+        "longitude": -73.63961028374787,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "1000",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-10-13 05:08:18",
         "num_of_customers": 1,
         "start_time": "2023-10-12 15:37:43",
         "expected_end_time": "2023-10-13 01:15:00",
         "latitude": 46.48192383878026,
         "longitude": -70.73211649465901,
         "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
         "municipality": "6513",
         "code": ""
     }
