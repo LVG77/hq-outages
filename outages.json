@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-11-05 10:07:53",
+        "time_stamp": "2023-11-05 11:06:22",
         "num_of_customers": 1379,
         "start_time": "2023-11-05 04:37:36",
         "expected_end_time": "2023-11-05 06:30:00",
@@ -13,7 +13,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-05 10:07:53",
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 2,
+        "start_time": "2023-11-05 05:09:26",
+        "expected_end_time": "2023-11-05 07:15:00",
+        "latitude": 45.67971252824212,
+        "longitude": -73.2183132206052,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7518",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
         "num_of_customers": 16,
         "start_time": "2023-11-05 01:55:52",
         "expected_end_time": "2023-11-05 13:00:00",
@@ -26,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-05 10:07:53",
+        "time_stamp": "2023-11-05 11:06:22",
         "num_of_customers": 8,
         "start_time": "2023-11-05 02:03:13",
         "expected_end_time": "2023-11-05 13:00:00",
@@ -39,7 +52,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-05 10:07:53",
+        "time_stamp": "2023-11-05 11:06:22",
         "num_of_customers": 1,
         "start_time": "2023-11-05 04:09:25",
         "expected_end_time": "2023-11-05 07:00:00",
@@ -52,12 +65,103 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-05 10:07:53",
-        "num_of_customers": 54,
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 38,
         "start_time": "2023-11-05 01:20:39",
         "expected_end_time": "2023-11-05 17:15:00",
-        "latitude": 45.845613818274835,
-        "longitude": -73.73731059344617,
+        "latitude": 45.84592953667397,
+        "longitude": -73.74524101297459,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "5820",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 4,
+        "start_time": "2023-11-05 05:09:26",
+        "expected_end_time": "2023-11-05 07:15:00",
+        "latitude": 45.682838647616535,
+        "longitude": -73.21782063530931,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7518",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 5,
+        "start_time": "2023-11-05 05:09:26",
+        "expected_end_time": "2023-11-05 07:15:00",
+        "latitude": 45.6585306041455,
+        "longitude": -73.24305959033397,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7518",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 1,
+        "start_time": "2023-11-05 05:09:26",
+        "expected_end_time": "2023-11-05 07:15:00",
+        "latitude": 45.671728576702954,
+        "longitude": -73.22242647213817,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7518",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 1,
+        "start_time": "2023-11-05 05:09:26",
+        "expected_end_time": "2023-11-05 07:15:00",
+        "latitude": 45.64859505528797,
+        "longitude": -73.23587829522505,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7518",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 2,
+        "start_time": "2023-11-05 05:09:26",
+        "expected_end_time": "2023-11-05 07:15:00",
+        "latitude": 45.67096294451513,
+        "longitude": -73.22267485329193,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7518",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 15,
+        "start_time": "2023-11-05 01:20:39",
+        "expected_end_time": "2023-11-05 17:15:00",
+        "latitude": 45.84332646351074,
+        "longitude": -73.72995954453089,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "5820",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 11:06:22",
+        "num_of_customers": 1,
+        "start_time": "2023-11-05 01:20:39",
+        "expected_end_time": "2023-11-05 17:15:00",
+        "latitude": 45.84156036229381,
+        "longitude": -73.73745604208605,
         "outage_status": "Crew at work",
         "ignore": "5",
         "cause_of_outage": "Accident or incident",
