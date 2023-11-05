@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-11-05 05:07:49",
+        "time_stamp": "2023-11-05 06:10:12",
         "num_of_customers": 765,
         "start_time": "2023-11-04 19:30:38",
         "expected_end_time": "2023-11-05 03:15:00",
@@ -13,16 +13,55 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-05 05:07:49",
+        "time_stamp": "2023-11-05 06:10:12",
+        "num_of_customers": 67,
+        "start_time": "2023-11-05 01:13:12",
+        "expected_end_time": "",
+        "latitude": 48.66633063444842,
+        "longitude": -79.2423785689095,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "5149",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 06:10:12",
+        "num_of_customers": 152,
+        "start_time": "2023-11-05 01:20:39",
+        "expected_end_time": "",
+        "latitude": 45.852441960491035,
+        "longitude": -73.69585676103178,
+        "outage_status": "Crew on the way",
+        "ignore": "4",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "5820",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 06:10:12",
         "num_of_customers": 51,
         "start_time": "2023-11-04 23:04:47",
-        "expected_end_time": "2023-11-05 01:15:00",
+        "expected_end_time": "2023-11-05 03:15:00",
         "latitude": 45.714685948231,
         "longitude": -76.16325685326294,
-        "outage_status": "Work assigned",
+        "outage_status": "Crew at work",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "8575",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-05 06:10:12",
+        "num_of_customers": 228,
+        "start_time": "2023-11-05 01:23:08",
+        "expected_end_time": "",
+        "latitude": 45.88791435208157,
+        "longitude": -73.6610554365181,
+        "outage_status": "Crew on the way",
+        "ignore": "4",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "5820",
         "code": ""
     }
 ]
