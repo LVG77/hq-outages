@@ -1,22 +1,35 @@
 [
     {
-        "time_stamp": "2023-11-20 08:12:19",
+        "time_stamp": "2023-11-20 09:09:45",
         "num_of_customers": 11,
         "start_time": "2023-11-19 21:31:22",
-        "expected_end_time": "2023-11-20 03:15:00",
+        "expected_end_time": "2023-11-20 10:15:00",
         "latitude": 45.678751052943994,
         "longitude": -75.6601057719712,
-        "outage_status": "Crew at work",
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "9431",
         "code": ""
     },
     {
-        "time_stamp": "2023-11-20 08:12:19",
+        "time_stamp": "2023-11-20 09:09:45",
+        "num_of_customers": 367,
+        "start_time": "2023-11-20 03:35:31",
+        "expected_end_time": "2023-11-20 04:45:00",
+        "latitude": 45.74876331999833,
+        "longitude": -75.77668443164347,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "9431",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-20 09:09:45",
         "num_of_customers": 92,
         "start_time": "2023-11-19 21:06:46",
-        "expected_end_time": "2023-11-20 03:15:00",
+        "expected_end_time": "2023-11-20 05:15:00",
         "latitude": 45.70196724297387,
         "longitude": -74.32074728166168,
         "outage_status": "Crew at work",
@@ -26,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-20 08:12:19",
+        "time_stamp": "2023-11-20 09:09:45",
         "num_of_customers": 327,
         "start_time": "2023-11-19 19:51:08",
         "expected_end_time": "2023-11-20 04:15:00",
