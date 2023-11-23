@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-11-23 08:11:07",
+        "time_stamp": "2023-11-23 09:08:43",
         "num_of_customers": 24,
         "start_time": "2023-11-21 18:35:05",
         "expected_end_time": "",
@@ -13,7 +13,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-23 08:11:07",
+        "time_stamp": "2023-11-23 09:08:43",
+        "num_of_customers": 1,
+        "start_time": "2023-11-22 09:28:24",
+        "expected_end_time": "",
+        "latitude": 45.608164232878856,
+        "longitude": -73.79060978077325,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "8389",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-23 09:08:43",
+        "num_of_customers": 27,
+        "start_time": "2023-11-23 03:28:46",
+        "expected_end_time": "2023-11-23 06:30:00",
+        "latitude": 46.53220778294505,
+        "longitude": -71.95531027012231,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4317",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-23 09:08:43",
         "num_of_customers": 63,
         "start_time": "2023-11-22 21:04:20",
         "expected_end_time": "2023-11-23 09:15:00",
@@ -23,19 +49,6 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "1000",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-11-23 08:11:07",
-        "num_of_customers": 15,
-        "start_time": "2023-11-22 18:43:26",
-        "expected_end_time": "",
-        "latitude": 45.338728217153715,
-        "longitude": -72.513128493498,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "9455",
         "code": ""
     }
 ]
