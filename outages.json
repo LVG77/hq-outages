@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-11-24 06:11:31",
+        "time_stamp": "2023-11-24 07:07:55",
         "num_of_customers": 24,
         "start_time": "2023-11-21 18:35:05",
         "expected_end_time": "2023-11-24 07:15:00",
@@ -13,10 +13,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-24 06:11:31",
+        "time_stamp": "2023-11-24 07:07:55",
+        "num_of_customers": 725,
+        "start_time": "2023-11-24 01:50:21",
+        "expected_end_time": "2023-11-24 03:00:00",
+        "latitude": 45.47783400823072,
+        "longitude": -73.65901245911601,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "0217",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-24 07:07:55",
         "num_of_customers": 1,
         "start_time": "2023-11-23 23:53:04",
-        "expected_end_time": "2023-11-24 01:45:00",
+        "expected_end_time": "",
         "latitude": 45.557471090358916,
         "longitude": -76.09879164273737,
         "outage_status": "Crew on the way",
@@ -26,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-11-24 06:11:31",
+        "time_stamp": "2023-11-24 07:07:55",
         "num_of_customers": 2,
         "start_time": "2023-11-23 22:38:18",
         "expected_end_time": "2023-11-24 02:15:00",
@@ -36,6 +49,32 @@
         "ignore": "3",
         "cause_of_outage": "Accident or incident",
         "municipality": "5717",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-24 07:07:55",
+        "num_of_customers": 493,
+        "start_time": "2023-11-24 01:01:06",
+        "expected_end_time": "2023-11-24 03:00:00",
+        "latitude": 45.734746327315726,
+        "longitude": -73.882269259622,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "8500",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-11-24 07:07:55",
+        "num_of_customers": 1,
+        "start_time": "2023-11-23 23:33:25",
+        "expected_end_time": "2023-11-24 06:15:00",
+        "latitude": 45.475422010001665,
+        "longitude": -73.6611966980869,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "0217",
         "code": ""
     }
 ]
