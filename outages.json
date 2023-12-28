@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-12-28 12:15:09",
+        "time_stamp": "2023-12-28 13:09:30",
         "num_of_customers": 2,
         "start_time": "2023-12-28 06:14:01",
         "expected_end_time": "2023-12-28 08:15:00",
@@ -13,29 +13,42 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-12-28 12:15:09",
-        "num_of_customers": 18,
-        "start_time": "2023-12-28 04:24:43",
-        "expected_end_time": "2023-12-28 07:30:00",
-        "latitude": 46.02811807335598,
-        "longitude": -73.70784506541688,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Damage due to vegetation",
-        "municipality": "8377",
-        "code": ""
-    },
-    {
-        "time_stamp": "2023-12-28 12:15:09",
+        "time_stamp": "2023-12-28 13:09:30",
         "num_of_customers": 1,
         "start_time": "2023-12-28 03:05:53",
         "expected_end_time": "2023-12-28 08:15:00",
         "latitude": 48.86449764120884,
         "longitude": -79.31377761785116,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "7077",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-12-28 13:09:30",
+        "num_of_customers": 1,
+        "start_time": "2023-12-28 07:47:45",
+        "expected_end_time": "",
+        "latitude": 46.99747569732428,
+        "longitude": -70.99263855920479,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1781",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-12-28 13:09:30",
+        "num_of_customers": 17,
+        "start_time": "2023-12-28 07:43:30",
+        "expected_end_time": "",
+        "latitude": 45.721220849525835,
+        "longitude": -73.68398493745555,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "9160",
         "code": ""
     }
 ]
