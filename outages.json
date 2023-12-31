@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2023-12-31 09:07:47",
+        "time_stamp": "2023-12-31 10:08:12",
         "num_of_customers": 79,
         "start_time": "2023-12-31 01:05:08",
         "expected_end_time": "2023-12-31 08:45:00",
@@ -13,23 +13,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-12-31 09:07:47",
+        "time_stamp": "2023-12-31 10:08:12",
         "num_of_customers": 3,
         "start_time": "2023-12-30 20:31:14",
         "expected_end_time": "2023-12-31 06:15:00",
         "latitude": 46.86202526196729,
         "longitude": -71.4308369824853,
         "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
+        "ignore": "2",
+        "cause_of_outage": "Weather conditions",
         "municipality": "9305",
         "code": ""
     },
     {
-        "time_stamp": "2023-12-31 09:07:47",
+        "time_stamp": "2023-12-31 10:08:12",
         "num_of_customers": 47,
         "start_time": "2023-12-31 01:27:38",
-        "expected_end_time": "2023-12-31 04:30:00",
+        "expected_end_time": "2023-12-31 06:45:00",
         "latitude": 46.81060085394758,
         "longitude": -71.2379002965319,
         "outage_status": "NA",
@@ -39,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2023-12-31 09:07:47",
+        "time_stamp": "2023-12-31 10:08:12",
         "num_of_customers": 54,
         "start_time": "2023-12-30 23:05:59",
         "expected_end_time": "2023-12-31 05:30:00",
@@ -49,6 +49,19 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "2138",
+        "code": ""
+    },
+    {
+        "time_stamp": "2023-12-31 10:08:12",
+        "num_of_customers": 1,
+        "start_time": "2023-12-31 04:25:48",
+        "expected_end_time": "2023-12-31 06:30:00",
+        "latitude": 45.43238337169435,
+        "longitude": -73.41263973982845,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "1535",
         "code": ""
     }
 ]
