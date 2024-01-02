@@ -1,15 +1,41 @@
 [
     {
-        "time_stamp": "2024-01-02 10:09:09",
+        "time_stamp": "2024-01-02 11:07:17",
+        "num_of_customers": 7,
+        "start_time": "2024-01-02 03:11:46",
+        "expected_end_time": "2024-01-02 07:00:00",
+        "latitude": 46.813378250418516,
+        "longitude": -71.27367423133379,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "9320",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-02 11:07:17",
         "num_of_customers": 2,
         "start_time": "2024-01-02 02:36:03",
-        "expected_end_time": "2024-01-02 06:00:00",
+        "expected_end_time": "",
         "latitude": 46.18162004129926,
         "longitude": -71.69580567859262,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "9019",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-02 11:07:17",
+        "num_of_customers": 18,
+        "start_time": "2024-01-02 05:32:47",
+        "expected_end_time": "",
+        "latitude": 46.85341079568824,
+        "longitude": -70.9552102762813,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6597",
         "code": ""
     }
 ]
