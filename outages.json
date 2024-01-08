@@ -1,19 +1,45 @@
 [
     {
-        "time_stamp": "2024-01-08 02:23:49",
-        "num_of_customers": 10,
-        "start_time": "2024-01-07 16:16:11",
+        "time_stamp": "2024-01-08 03:09:40",
+        "num_of_customers": 5,
+        "start_time": "2024-01-07 21:31:46",
         "expected_end_time": "",
-        "latitude": 45.48076001638436,
-        "longitude": -73.40197304115561,
-        "outage_status": "Crew on the way",
+        "latitude": 45.726309260934876,
+        "longitude": -75.04445679995982,
+        "outage_status": "Work assigned",
         "ignore": "",
         "cause_of_outage": null,
+        "municipality": "5967",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-08 03:09:40",
+        "num_of_customers": 12,
+        "start_time": "2024-01-07 21:44:19",
+        "expected_end_time": "",
+        "latitude": 45.87413287810339,
+        "longitude": -73.29294889163693,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4296",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-08 03:09:40",
+        "num_of_customers": 10,
+        "start_time": "2024-01-07 16:16:11",
+        "expected_end_time": "2024-01-07 23:15:00",
+        "latitude": 45.48076001638436,
+        "longitude": -73.40197304115561,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Equipment failure",
         "municipality": "7011",
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
+        "time_stamp": "2024-01-08 03:09:40",
         "num_of_customers": 5,
         "start_time": "2024-01-07 17:50:24",
         "expected_end_time": "2024-01-07 22:15:00",
@@ -26,7 +52,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
+        "time_stamp": "2024-01-08 03:09:40",
         "num_of_customers": 3,
         "start_time": "2024-01-07 18:36:05",
         "expected_end_time": "2024-01-07 22:15:00",
@@ -39,7 +65,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
+        "time_stamp": "2024-01-08 03:09:40",
         "num_of_customers": 18,
         "start_time": "2024-01-07 19:23:52",
         "expected_end_time": "2024-01-08 00:30:00",
@@ -52,23 +78,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
-        "num_of_customers": 100,
+        "time_stamp": "2024-01-08 03:09:40",
+        "num_of_customers": 233,
         "start_time": "2024-01-07 19:20:02",
-        "expected_end_time": "2024-01-07 21:15:00",
-        "latitude": 45.46781692579284,
-        "longitude": -71.94710408720378,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
+        "expected_end_time": "",
+        "latitude": 45.467097954674514,
+        "longitude": -71.94353681559572,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Equipment failure",
         "municipality": "1529",
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
+        "time_stamp": "2024-01-08 03:09:40",
         "num_of_customers": 4,
         "start_time": "2024-01-07 20:48:48",
-        "expected_end_time": "",
+        "expected_end_time": "2024-01-07 22:45:00",
         "latitude": 45.16172780362252,
         "longitude": -73.52317743100421,
         "outage_status": "Crew at work",
@@ -78,10 +104,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
+        "time_stamp": "2024-01-08 03:09:40",
+        "num_of_customers": 6,
+        "start_time": "2024-01-07 21:14:28",
+        "expected_end_time": "2024-01-07 23:15:00",
+        "latitude": 48.16111664669237,
+        "longitude": -66.37238235636013,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5076",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-08 03:09:40",
         "num_of_customers": 6,
         "start_time": "2024-01-07 19:49:35",
-        "expected_end_time": "2024-01-07 21:45:00",
+        "expected_end_time": "",
         "latitude": 45.64346101934074,
         "longitude": -73.4016308427213,
         "outage_status": "Work assigned",
@@ -91,7 +130,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-08 02:23:49",
+        "time_stamp": "2024-01-08 03:09:40",
         "num_of_customers": 6,
         "start_time": "2024-01-07 08:00:45",
         "expected_end_time": "2024-01-07 23:15:00",
