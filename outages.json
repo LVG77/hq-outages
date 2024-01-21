@@ -1,15 +1,41 @@
 [
     {
-        "time_stamp": "2024-01-21 12:14:49",
+        "time_stamp": "2024-01-21 13:10:15",
+        "num_of_customers": 8,
+        "start_time": "2024-01-21 07:40:23",
+        "expected_end_time": "",
+        "latitude": 45.765192551944246,
+        "longitude": -73.44605304366823,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5482",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-21 13:10:15",
         "num_of_customers": 12,
         "start_time": "2024-01-20 23:16:16",
-        "expected_end_time": "2024-01-21 08:15:00",
+        "expected_end_time": "2024-01-21 10:15:00",
         "latitude": 45.503181017051936,
         "longitude": -73.82539638976093,
         "outage_status": "Crew at work",
         "ignore": "1",
         "cause_of_outage": "Equipment failure",
         "municipality": "0253",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-21 13:10:15",
+        "num_of_customers": 16,
+        "start_time": "2024-01-21 07:45:16",
+        "expected_end_time": "",
+        "latitude": 45.57086510839719,
+        "longitude": -73.7120635807043,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1856",
         "code": ""
     }
 ]
