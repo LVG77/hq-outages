@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2024-01-23 11:07:28",
+        "time_stamp": "2024-01-23 12:16:16",
         "num_of_customers": 38,
         "start_time": "2024-01-22 23:49:42",
         "expected_end_time": "2024-01-23 08:15:00",
@@ -13,20 +13,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-23 11:07:28",
+        "time_stamp": "2024-01-23 12:16:16",
         "num_of_customers": 9,
         "start_time": "2024-01-23 05:55:28",
-        "expected_end_time": "",
+        "expected_end_time": "2024-01-23 08:00:00",
         "latitude": 47.373233156953916,
         "longitude": -70.02876858058995,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "3948",
         "code": ""
     },
     {
-        "time_stamp": "2024-01-23 11:07:28",
+        "time_stamp": "2024-01-23 12:16:16",
+        "num_of_customers": 970,
+        "start_time": "2024-01-23 06:12:36",
+        "expected_end_time": "2024-01-23 08:15:00",
+        "latitude": 48.331533173436306,
+        "longitude": -70.99912227503312,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5329",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-23 12:16:16",
         "num_of_customers": 15,
         "start_time": "2024-01-23 03:54:09",
         "expected_end_time": "2024-01-23 11:15:00",
@@ -39,16 +52,29 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-23 11:07:28",
+        "time_stamp": "2024-01-23 12:16:16",
         "num_of_customers": 20,
         "start_time": "2024-01-23 05:09:31",
-        "expected_end_time": "2024-01-23 07:00:00",
+        "expected_end_time": "2024-01-23 11:00:00",
         "latitude": 45.51171762168262,
         "longitude": -73.60933887704113,
         "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "0117",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-23 12:16:16",
+        "num_of_customers": 10,
+        "start_time": "2024-01-23 06:27:56",
+        "expected_end_time": "2024-01-23 08:30:00",
+        "latitude": 46.38765664749317,
+        "longitude": -72.47865426705144,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "8881",
         "code": ""
     }
 ]
