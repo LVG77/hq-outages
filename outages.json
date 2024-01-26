@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2024-01-26 02:16:58",
+        "time_stamp": "2024-01-26 03:09:52",
         "num_of_customers": 29,
         "start_time": "2024-01-25 20:45:15",
         "expected_end_time": "2024-01-25 23:00:00",
@@ -13,7 +13,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-26 02:16:58",
+        "time_stamp": "2024-01-26 03:09:52",
+        "num_of_customers": 5,
+        "start_time": "2024-01-25 21:01:20",
+        "expected_end_time": "2024-01-25 23:00:00",
+        "latitude": 46.22834739559207,
+        "longitude": -73.40827325207313,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6339",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-26 03:09:52",
+        "num_of_customers": 18,
+        "start_time": "2024-01-25 11:46:51",
+        "expected_end_time": "2024-01-26 03:15:00",
+        "latitude": 46.90400994378199,
+        "longitude": -71.19749076455021,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "1302",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-01-26 03:09:52",
         "num_of_customers": 19,
         "start_time": "2024-01-25 18:10:03",
         "expected_end_time": "2024-01-26 02:15:00",
@@ -26,20 +52,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-26 02:16:58",
-        "num_of_customers": 35,
-        "start_time": "2024-01-25 11:46:51",
-        "expected_end_time": "2024-01-25 21:45:00",
-        "latitude": 46.90559338267699,
-        "longitude": -71.19892532837676,
-        "outage_status": "Crew at work",
-        "ignore": "1",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "1302",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-01-26 02:16:58",
+        "time_stamp": "2024-01-26 03:09:52",
         "num_of_customers": 261,
         "start_time": "2024-01-25 20:29:52",
         "expected_end_time": "2024-01-25 23:30:00",
@@ -52,7 +65,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-01-26 02:16:58",
+        "time_stamp": "2024-01-26 03:09:52",
         "num_of_customers": 50,
         "start_time": "2024-01-25 20:46:44",
         "expected_end_time": "2024-01-25 22:45:00",
