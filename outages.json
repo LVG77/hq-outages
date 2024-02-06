@@ -1,9 +1,22 @@
 [
     {
-        "time_stamp": "2024-02-06 04:10:01",
+        "time_stamp": "2024-02-06 05:08:49",
+        "num_of_customers": 2493,
+        "start_time": "2024-02-05 23:49:11",
+        "expected_end_time": "",
+        "latitude": 45.85112529256504,
+        "longitude": -72.55671360167337,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "2117",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-02-06 05:08:49",
         "num_of_customers": 3,
         "start_time": "2024-02-05 21:31:18",
-        "expected_end_time": "2024-02-05 23:30:00",
+        "expected_end_time": "",
         "latitude": 47.2211069352176,
         "longitude": -61.986584237471185,
         "outage_status": "Work assigned",
@@ -13,20 +26,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-02-06 04:10:01",
-        "num_of_customers": 102,
+        "time_stamp": "2024-02-06 05:08:49",
+        "num_of_customers": 134,
         "start_time": "2024-02-05 21:45:23",
-        "expected_end_time": "2024-02-05 23:45:00",
-        "latitude": 47.48484747848177,
-        "longitude": -61.728425498710024,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
+        "expected_end_time": "2024-02-06 01:15:00",
+        "latitude": 47.48418942049302,
+        "longitude": -61.73157899804839,
+        "outage_status": "Crew at work",
+        "ignore": "2",
+        "cause_of_outage": "Weather conditions",
         "municipality": "2585",
         "code": ""
     },
     {
-        "time_stamp": "2024-02-06 04:10:01",
+        "time_stamp": "2024-02-06 05:08:49",
         "num_of_customers": 1,
         "start_time": "2024-02-05 13:06:48",
         "expected_end_time": "2024-02-06 19:15:00",
@@ -39,16 +52,16 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-02-06 04:10:01",
-        "num_of_customers": 1998,
-        "start_time": "2024-02-05 20:04:52",
-        "expected_end_time": "2024-02-05 23:45:00",
-        "latitude": 45.8459479274458,
-        "longitude": -72.56697030403129,
+        "time_stamp": "2024-02-06 05:08:49",
+        "num_of_customers": 10,
+        "start_time": "2024-02-05 23:22:22",
+        "expected_end_time": "2024-02-06 01:00:00",
+        "latitude": 45.47778468162116,
+        "longitude": -73.65805240188986,
         "outage_status": "Crew at work",
         "ignore": "",
         "cause_of_outage": null,
-        "municipality": "6900",
+        "municipality": "0217",
         "code": ""
     }
 ]
