@@ -1,19 +1,32 @@
 [
     {
-        "time_stamp": "2024-02-06 09:08:21",
+        "time_stamp": "2024-02-06 10:09:03",
+        "num_of_customers": 6,
+        "start_time": "2024-02-06 03:15:46",
+        "expected_end_time": "2024-02-06 05:45:00",
+        "latitude": 46.79250474561812,
+        "longitude": -71.17391895184102,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "4386",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-02-06 10:09:03",
         "num_of_customers": 3,
         "start_time": "2024-02-06 03:00:55",
         "expected_end_time": "2024-02-06 05:00:00",
         "latitude": 45.129826312484376,
         "longitude": -74.37344763974302,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "5994",
         "code": ""
     },
     {
-        "time_stamp": "2024-02-06 09:08:21",
+        "time_stamp": "2024-02-06 10:09:03",
         "num_of_customers": 3,
         "start_time": "2024-02-06 02:55:53",
         "expected_end_time": "2024-02-06 05:00:00",
@@ -26,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-02-06 09:08:21",
+        "time_stamp": "2024-02-06 10:09:03",
         "num_of_customers": 1,
         "start_time": "2024-02-05 13:06:48",
         "expected_end_time": "2024-02-06 19:15:00",
@@ -36,32 +49,6 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "9034",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-02-06 09:08:21",
-        "num_of_customers": 2,
-        "start_time": "2024-02-06 03:15:46",
-        "expected_end_time": "2024-02-06 05:15:00",
-        "latitude": 46.79360602744481,
-        "longitude": -71.17536597629682,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "4386",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-02-06 09:08:21",
-        "num_of_customers": 24,
-        "start_time": "2024-02-06 00:14:17",
-        "expected_end_time": "2024-02-06 04:15:00",
-        "latitude": 45.272085389961674,
-        "longitude": -73.2493839769636,
-        "outage_status": "Crew at work",
-        "ignore": "3",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "7110",
         "code": ""
     }
 ]
