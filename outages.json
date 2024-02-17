@@ -1,6 +1,19 @@
 [
     {
-        "time_stamp": "2024-02-17 03:09:31",
+        "time_stamp": "2024-02-17 04:11:36",
+        "num_of_customers": 6,
+        "start_time": "2024-02-16 22:00:00",
+        "expected_end_time": "2024-02-17 02:15:00",
+        "latitude": 45.70979491217504,
+        "longitude": -73.50716711993333,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "6297",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-02-17 04:11:36",
         "num_of_customers": 29,
         "start_time": "2024-02-16 21:10:23",
         "expected_end_time": "2024-02-16 23:15:00",
@@ -10,58 +23,6 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "6291",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-02-17 03:09:31",
-        "num_of_customers": 1,
-        "start_time": "2024-02-16 16:41:10",
-        "expected_end_time": "2024-02-17 01:15:00",
-        "latitude": 45.48445651964429,
-        "longitude": -73.77890877070277,
-        "outage_status": "Work assigned",
-        "ignore": "5",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "0223",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-02-17 03:09:31",
-        "num_of_customers": 20,
-        "start_time": "2024-02-16 15:54:07",
-        "expected_end_time": "2024-02-17 00:00:00",
-        "latitude": 47.02579500046725,
-        "longitude": -70.9259439049001,
-        "outage_status": "Crew at work",
-        "ignore": "6",
-        "cause_of_outage": null,
-        "municipality": "8476",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-02-17 03:09:31",
-        "num_of_customers": 9,
-        "start_time": "2024-02-16 16:47:02",
-        "expected_end_time": "",
-        "latitude": 46.13706062949268,
-        "longitude": -71.06889419632914,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "8611",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-02-17 03:09:31",
-        "num_of_customers": 45,
-        "start_time": "2024-02-16 21:38:03",
-        "expected_end_time": "",
-        "latitude": 45.118994070879026,
-        "longitude": -73.99810335097092,
-        "outage_status": "Crew at work",
-        "ignore": "1",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "5128",
         "code": ""
     }
 ]
