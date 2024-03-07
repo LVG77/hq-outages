@@ -1,9 +1,9 @@
 [
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 5,
         "start_time": "2024-03-07 01:50:41",
-        "expected_end_time": "2024-03-07 03:30:00",
+        "expected_end_time": "",
         "latitude": 45.4943627947346,
         "longitude": -73.74046130183704,
         "outage_status": "NA",
@@ -13,20 +13,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 5,
         "start_time": "2024-03-07 01:55:46",
-        "expected_end_time": "2024-03-07 04:00:00",
+        "expected_end_time": "2024-03-07 08:45:00",
         "latitude": 45.79534382744863,
         "longitude": -74.13218201776971,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
         "municipality": "4652",
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 1,
         "start_time": "2023-11-20 10:16:24",
         "expected_end_time": "2024-03-07 12:15:00",
@@ -39,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 6,
         "start_time": "2024-03-06 17:15:20",
         "expected_end_time": "2024-03-07 12:15:00",
@@ -52,20 +52,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
-        "num_of_customers": 4,
-        "start_time": "2024-03-07 00:10:30",
-        "expected_end_time": "2024-03-07 03:15:00",
-        "latitude": 45.447039207223455,
-        "longitude": -72.89116847066582,
+        "time_stamp": "2024-03-07 09:07:10",
+        "num_of_customers": 95,
+        "start_time": "2024-03-07 03:30:40",
+        "expected_end_time": "2024-03-07 04:45:00",
+        "latitude": 46.451623477924684,
+        "longitude": -75.75475136897568,
         "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "7809",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "2018",
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
+        "num_of_customers": 8,
+        "start_time": "2024-03-07 02:49:24",
+        "expected_end_time": "2024-03-07 04:45:00",
+        "latitude": 46.0160840799757,
+        "longitude": -73.04714586342692,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5775",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 2,
         "start_time": "2024-02-29 04:07:59",
         "expected_end_time": "2024-03-07 04:15:00",
@@ -78,7 +91,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 417,
         "start_time": "2024-03-06 10:09:24",
         "expected_end_time": "2024-03-07 11:15:00",
@@ -91,20 +104,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 1582,
         "start_time": "2024-03-07 01:50:48",
         "expected_end_time": "2024-03-07 04:15:00",
         "latitude": 45.50214588642483,
         "longitude": -73.75852889184628,
-        "outage_status": "NA",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "0121",
         "code": ""
     },
     {
-        "time_stamp": "2024-03-07 08:08:43",
+        "time_stamp": "2024-03-07 09:07:10",
         "num_of_customers": 2,
         "start_time": "2024-03-06 13:49:30",
         "expected_end_time": "2024-03-07 17:15:00",
