@@ -1,19 +1,19 @@
 [
     {
-        "time_stamp": "2024-04-01 17:10:02",
-        "num_of_customers": 98,
-        "start_time": "2024-04-01 12:09:19",
-        "expected_end_time": "2024-04-01 14:30:00",
-        "latitude": 45.56515698746147,
-        "longitude": -73.6597052842814,
-        "outage_status": "NA",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "1000",
+        "time_stamp": "2024-04-01 18:10:29",
+        "num_of_customers": 28,
+        "start_time": "2024-04-01 13:54:55",
+        "expected_end_time": "2024-04-01 15:15:00",
+        "latitude": 45.08596868265339,
+        "longitude": -73.55186994427476,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "2597",
         "code": ""
     },
     {
-        "time_stamp": "2024-04-01 17:10:02",
+        "time_stamp": "2024-04-01 18:10:29",
         "num_of_customers": 1,
         "start_time": "2024-04-01 06:21:37",
         "expected_end_time": "2024-04-01 18:30:00",
@@ -26,16 +26,29 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-04-01 17:10:02",
+        "time_stamp": "2024-04-01 18:10:29",
         "num_of_customers": 1,
         "start_time": "2024-04-01 12:52:31",
-        "expected_end_time": "",
+        "expected_end_time": "2024-04-01 14:45:00",
         "latitude": 45.44623520566798,
         "longitude": -73.87483021296194,
-        "outage_status": "NA",
+        "outage_status": "Work assigned",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "0235",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-01 18:10:29",
+        "num_of_customers": 45,
+        "start_time": "2024-04-01 13:03:11",
+        "expected_end_time": "2024-04-01 14:45:00",
+        "latitude": 45.477046600491015,
+        "longitude": -73.5690840457863,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1000",
         "code": ""
     }
 ]
