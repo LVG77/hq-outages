@@ -1,35 +1,9 @@
 [
     {
-        "time_stamp": "2024-04-17 05:09:02",
-        "num_of_customers": 1,
-        "start_time": "2024-04-16 21:56:10",
-        "expected_end_time": "",
-        "latitude": 45.14643710488405,
-        "longitude": -74.00273732517351,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "5128",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-04-17 05:09:02",
-        "num_of_customers": 525,
-        "start_time": "2024-04-16 21:10:31",
-        "expected_end_time": "2024-04-17 02:15:00",
-        "latitude": 46.023927773333995,
-        "longitude": -72.93146495192212,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "7668",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-04-17 05:09:02",
+        "time_stamp": "2024-04-17 06:13:52",
         "num_of_customers": 5,
         "start_time": "2024-04-16 23:14:16",
-        "expected_end_time": "2024-04-17 01:15:00",
+        "expected_end_time": "2024-04-17 02:30:00",
         "latitude": 46.257831855985366,
         "longitude": -71.74583081961214,
         "outage_status": "Crew on the way",
@@ -39,33 +13,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-04-17 05:09:02",
+        "time_stamp": "2024-04-17 06:13:52",
         "num_of_customers": 7,
         "start_time": "2024-04-16 23:41:52",
-        "expected_end_time": "2024-04-17 01:45:00",
+        "expected_end_time": "2024-04-17 05:45:00",
         "latitude": 45.01619223427871,
         "longitude": -72.08751306743561,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
         "municipality": "8362",
         "code": ""
     },
     {
-        "time_stamp": "2024-04-17 05:09:02",
+        "time_stamp": "2024-04-17 06:13:52",
         "num_of_customers": 92,
         "start_time": "2024-04-17 00:26:03",
         "expected_end_time": "2024-04-17 04:30:00",
         "latitude": 46.07910185075783,
         "longitude": -74.09065236376071,
-        "outage_status": "NA",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
         "municipality": "8830",
         "code": ""
     },
     {
-        "time_stamp": "2024-04-17 05:09:02",
+        "time_stamp": "2024-04-17 06:13:52",
         "num_of_customers": 1,
         "start_time": "2024-04-16 21:21:09",
         "expected_end_time": "2024-04-17 04:30:00",
@@ -78,20 +52,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-04-17 05:09:02",
-        "num_of_customers": 561,
-        "start_time": "2024-04-16 22:27:24",
-        "expected_end_time": "2024-04-17 02:15:00",
-        "latitude": 48.390895640449266,
-        "longitude": -64.54577465505463,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "5203",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-04-17 05:09:02",
+        "time_stamp": "2024-04-17 06:13:52",
         "num_of_customers": 2,
         "start_time": "2024-04-16 19:47:54",
         "expected_end_time": "2024-04-17 02:15:00",
@@ -101,6 +62,19 @@
         "ignore": "5",
         "cause_of_outage": "Damage due to vegetation",
         "municipality": "9046",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-17 06:13:52",
+        "num_of_customers": 8,
+        "start_time": "2024-04-17 01:03:11",
+        "expected_end_time": "2024-04-17 02:15:00",
+        "latitude": 46.31336837979017,
+        "longitude": -74.21517363568637,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "5793",
         "code": ""
     }
 ]
