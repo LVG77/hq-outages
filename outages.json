@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2024-04-21 03:08:54",
+        "time_stamp": "2024-04-21 04:10:00",
         "num_of_customers": 693,
         "start_time": "2024-04-20 17:16:34",
         "expected_end_time": "2024-04-21 01:15:00",
@@ -13,36 +13,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-04-21 03:08:54",
+        "time_stamp": "2024-04-21 04:10:00",
         "num_of_customers": 15,
         "start_time": "2024-04-20 20:40:43",
-        "expected_end_time": "2024-04-20 23:45:00",
+        "expected_end_time": "",
         "latitude": 45.51658086167644,
         "longitude": -73.79809926376028,
-        "outage_status": "Crew on the way",
+        "outage_status": "Crew at work",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "8641",
         "code": ""
     },
     {
-        "time_stamp": "2024-04-21 03:08:54",
-        "num_of_customers": 44,
-        "start_time": "2024-04-20 22:01:45",
-        "expected_end_time": "2024-04-21 00:00:00",
-        "latitude": 45.73318418577269,
-        "longitude": -73.45483432799602,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "5482",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-04-21 03:08:54",
+        "time_stamp": "2024-04-21 04:10:00",
         "num_of_customers": 4,
         "start_time": "2024-04-20 21:48:27",
-        "expected_end_time": "",
+        "expected_end_time": "2024-04-21 00:45:00",
         "latitude": 46.189823516834984,
         "longitude": -74.90734868180743,
         "outage_status": "Crew at work",
@@ -52,7 +39,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-04-21 03:08:54",
+        "time_stamp": "2024-04-21 04:10:00",
+        "num_of_customers": 5,
+        "start_time": "2024-04-20 10:03:10",
+        "expected_end_time": "",
+        "latitude": 45.62159676982036,
+        "longitude": -73.74198831484739,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1164",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-21 04:10:00",
         "num_of_customers": 4,
         "start_time": "2024-04-20 17:16:34",
         "expected_end_time": "2024-04-21 01:15:00",
@@ -62,6 +62,58 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "7863",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-21 04:10:00",
+        "num_of_customers": 1,
+        "start_time": "2024-04-20 23:13:31",
+        "expected_end_time": "",
+        "latitude": 47.65045075375639,
+        "longitude": -79.31429382315828,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "2516",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-21 04:10:00",
+        "num_of_customers": 18,
+        "start_time": "2024-04-20 22:01:45",
+        "expected_end_time": "",
+        "latitude": 45.73316290026472,
+        "longitude": -73.45469407214051,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "5482",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-21 04:10:00",
+        "num_of_customers": 26,
+        "start_time": "2024-04-20 22:01:45",
+        "expected_end_time": "",
+        "latitude": 45.73321842959311,
+        "longitude": -73.45499539530398,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "5482",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-04-21 04:10:00",
+        "num_of_customers": 5,
+        "start_time": "2024-04-20 23:18:55",
+        "expected_end_time": "",
+        "latitude": 46.2110206194793,
+        "longitude": -74.17299821472257,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "8812",
         "code": ""
     }
 ]
