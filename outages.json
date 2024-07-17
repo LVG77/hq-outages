@@ -1,6 +1,19 @@
 [
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
+        "num_of_customers": 1,
+        "start_time": "2024-07-17 03:11:18",
+        "expected_end_time": "2024-07-17 05:15:00",
+        "latitude": 45.38496333948817,
+        "longitude": -72.68327690263638,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "2423",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 10,
         "start_time": "2024-07-17 01:19:31",
         "expected_end_time": "2024-07-17 08:15:00",
@@ -13,20 +26,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 3,
         "start_time": "2024-07-16 22:02:26",
-        "expected_end_time": "",
+        "expected_end_time": "2024-07-17 06:15:00",
         "latitude": 45.076636248824116,
         "longitude": -72.62079406116797,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
         "municipality": "9106",
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 1,
         "start_time": "2024-07-15 17:22:28",
         "expected_end_time": "2024-07-17 22:00:00",
@@ -39,10 +52,10 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 1,
         "start_time": "2024-07-17 01:13:39",
-        "expected_end_time": "2024-07-17 03:30:00",
+        "expected_end_time": "",
         "latitude": 46.002111388683495,
         "longitude": -71.97366541884958,
         "outage_status": "Crew on the way",
@@ -52,7 +65,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 43,
         "start_time": "2024-07-17 01:56:07",
         "expected_end_time": "2024-07-17 07:15:00",
@@ -65,10 +78,10 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 1,
         "start_time": "2024-07-16 23:55:02",
-        "expected_end_time": "2024-07-17 03:30:00",
+        "expected_end_time": "",
         "latitude": 46.293351559490866,
         "longitude": -70.88560970214179,
         "outage_status": "Crew on the way",
@@ -78,20 +91,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
-        "num_of_customers": 5,
-        "start_time": "2024-07-16 23:36:45",
-        "expected_end_time": "2024-07-17 03:15:00",
-        "latitude": 45.69534665969052,
-        "longitude": -75.51705679108811,
-        "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "3807",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 8,
         "start_time": "2024-07-16 22:24:58",
         "expected_end_time": "2024-07-17 07:15:00",
@@ -104,7 +104,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 76,
         "start_time": "2024-07-17 01:59:35",
         "expected_end_time": "2024-07-17 09:15:00",
@@ -117,7 +117,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 10,
         "start_time": "2024-07-16 21:57:09",
         "expected_end_time": "2024-07-17 05:15:00",
@@ -130,7 +130,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-07-17 07:10:26",
+        "time_stamp": "2024-07-17 08:12:48",
         "num_of_customers": 2,
         "start_time": "2024-07-15 16:34:44",
         "expected_end_time": "2024-07-17 14:15:00",
@@ -140,58 +140,6 @@
         "ignore": "1",
         "cause_of_outage": "Equipment failure",
         "municipality": "9025",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-07-17 07:10:26",
-        "num_of_customers": 9,
-        "start_time": "2024-07-17 00:31:51",
-        "expected_end_time": "2024-07-17 03:30:00",
-        "latitude": 46.01103257372008,
-        "longitude": -73.417316200554,
-        "outage_status": "Crew at work",
-        "ignore": "3",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "3732",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-07-17 07:10:26",
-        "num_of_customers": 5,
-        "start_time": "2024-07-17 00:45:37",
-        "expected_end_time": "2024-07-17 09:00:00",
-        "latitude": 45.71938224830102,
-        "longitude": -73.47133130638974,
-        "outage_status": "Crew at work",
-        "ignore": "6",
-        "cause_of_outage": null,
-        "municipality": "5482",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-07-17 07:10:26",
-        "num_of_customers": 12,
-        "start_time": "2024-07-17 00:55:27",
-        "expected_end_time": "2024-07-17 04:15:00",
-        "latitude": 46.842504670072415,
-        "longitude": -71.36769386527146,
-        "outage_status": "Crew at work",
-        "ignore": "1",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "5411",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-07-17 07:10:26",
-        "num_of_customers": 8,
-        "start_time": "2024-07-16 23:08:12",
-        "expected_end_time": "2024-07-17 07:15:00",
-        "latitude": 45.71935176230478,
-        "longitude": -73.47040151305538,
-        "outage_status": "Crew at work",
-        "ignore": "6",
-        "cause_of_outage": null,
-        "municipality": "5482",
         "code": ""
     }
 ]
