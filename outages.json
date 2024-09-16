@@ -1,24 +1,11 @@
 [
     {
-        "time_stamp": "2024-09-16 03:18:50",
-        "num_of_customers": 5447,
-        "start_time": "2024-09-15 22:56:28",
-        "expected_end_time": "",
-        "latitude": 45.543839290936724,
-        "longitude": -73.55638580815136,
-        "outage_status": "Crew on the way",
-        "ignore": "4",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "1000",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-09-16 03:18:50",
+        "time_stamp": "2024-09-16 04:13:17",
         "num_of_customers": 503,
         "start_time": "2024-09-15 23:01:02",
-        "expected_end_time": "",
-        "latitude": 49.73698737653822,
-        "longitude": -67.16495542069896,
+        "expected_end_time": "2024-09-16 02:30:00",
+        "latitude": 49.73698737629191,
+        "longitude": -67.1649554203727,
         "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
@@ -26,7 +13,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-09-16 03:18:50",
+        "time_stamp": "2024-09-16 04:13:17",
+        "num_of_customers": 1,
+        "start_time": "2024-09-15 23:22:14",
+        "expected_end_time": "2024-09-16 02:15:00",
+        "latitude": 46.24227843266306,
+        "longitude": -74.71149154325877,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4005",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-09-16 04:13:17",
         "num_of_customers": 12,
         "start_time": "2024-09-15 20:04:58",
         "expected_end_time": "2024-09-16 06:15:00",
@@ -36,6 +36,19 @@
         "ignore": "6",
         "cause_of_outage": null,
         "municipality": "6639",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-09-16 04:13:17",
+        "num_of_customers": 5,
+        "start_time": "2024-09-15 23:24:40",
+        "expected_end_time": "2024-09-16 01:30:00",
+        "latitude": 48.15565646720457,
+        "longitude": -78.97720735611246,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5647",
         "code": ""
     }
 ]
