@@ -1,9 +1,22 @@
 [
     {
-        "time_stamp": "2024-09-30 10:12:19",
+        "time_stamp": "2024-09-30 11:09:20",
+        "num_of_customers": 3,
+        "start_time": "2024-09-30 05:59:36",
+        "expected_end_time": "",
+        "latitude": 46.83006588170302,
+        "longitude": -71.28412044405421,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5411",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-09-30 11:09:20",
         "num_of_customers": 1,
         "start_time": "2024-09-30 05:51:44",
-        "expected_end_time": "",
+        "expected_end_time": "2024-09-30 07:45:00",
         "latitude": 48.70504752153138,
         "longitude": -78.10256207532929,
         "outage_status": "NA",
@@ -13,7 +26,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-09-30 10:12:19",
+        "time_stamp": "2024-09-30 11:09:20",
+        "num_of_customers": 9,
+        "start_time": "2024-09-30 06:14:36",
+        "expected_end_time": "2024-09-30 08:15:00",
+        "latitude": 46.024736573975524,
+        "longitude": -73.12097543642327,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5775",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-09-30 11:09:20",
         "num_of_customers": 11,
         "start_time": "2024-09-29 17:24:24",
         "expected_end_time": "2024-09-30 09:15:00",
@@ -23,6 +49,32 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "0217",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-09-30 11:09:20",
+        "num_of_customers": 6,
+        "start_time": "2024-09-30 06:43:03",
+        "expected_end_time": "",
+        "latitude": 46.11340744659053,
+        "longitude": -70.64508816087437,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6840",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-09-30 11:09:20",
+        "num_of_customers": 224,
+        "start_time": "2024-09-30 06:40:02",
+        "expected_end_time": "",
+        "latitude": 45.51190949279181,
+        "longitude": -73.55960395689787,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1000",
         "code": ""
     }
 ]
