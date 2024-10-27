@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2024-10-27 09:10:44",
+        "time_stamp": "2024-10-27 10:10:24",
         "num_of_customers": 12,
         "start_time": "2024-10-26 18:36:46",
         "expected_end_time": "2024-10-27 11:15:00",
@@ -13,7 +13,46 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-10-27 09:10:44",
+        "time_stamp": "2024-10-27 10:10:24",
+        "num_of_customers": 17,
+        "start_time": "2024-10-27 05:30:29",
+        "expected_end_time": "2024-10-27 07:30:00",
+        "latitude": 46.62026704399838,
+        "longitude": -72.69640493488006,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "2435",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-10-27 10:10:24",
+        "num_of_customers": 928,
+        "start_time": "2024-10-27 02:43:47",
+        "expected_end_time": "2024-10-27 07:45:00",
+        "latitude": 49.16193894200276,
+        "longitude": -66.22002799824214,
+        "outage_status": "Crew on the way",
+        "ignore": "2",
+        "cause_of_outage": "Weather conditions",
+        "municipality": "8368",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-10-27 10:10:24",
+        "num_of_customers": 359,
+        "start_time": "2024-10-27 02:43:47",
+        "expected_end_time": "2024-10-27 07:45:00",
+        "latitude": 49.14315203703223,
+        "longitude": -66.42216604443117,
+        "outage_status": "Crew on the way",
+        "ignore": "2",
+        "cause_of_outage": "Weather conditions",
+        "municipality": "8368",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-10-27 10:10:24",
         "num_of_customers": 11,
         "start_time": "2024-10-26 23:26:55",
         "expected_end_time": "2024-10-27 07:45:00",
@@ -26,7 +65,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-10-27 09:10:44",
+        "time_stamp": "2024-10-27 10:10:24",
         "num_of_customers": 16,
         "start_time": "2024-10-27 00:26:36",
         "expected_end_time": "2024-10-27 10:15:00",
@@ -36,19 +75,6 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "5721",
-        "code": ""
-    },
-    {
-        "time_stamp": "2024-10-27 09:10:44",
-        "num_of_customers": 1287,
-        "start_time": "2024-10-27 02:43:47",
-        "expected_end_time": "",
-        "latitude": 49.159425248764194,
-        "longitude": -66.23443318163358,
-        "outage_status": "Crew on the way",
-        "ignore": "5",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "8368",
         "code": ""
     }
 ]
