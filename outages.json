@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2024-12-18 07:23:43",
+        "time_stamp": "2024-12-18 08:32:41",
         "num_of_customers": 71,
         "start_time": "2024-12-17 10:33:12",
         "expected_end_time": "2024-12-18 12:15:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-12-18 07:23:43",
+        "time_stamp": "2024-12-18 08:32:41",
         "num_of_customers": 79,
         "start_time": "2024-12-18 01:40:10",
         "expected_end_time": "2024-12-18 05:00:00",
@@ -26,7 +26,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-12-18 07:23:43",
+        "time_stamp": "2024-12-18 08:32:41",
         "num_of_customers": 106,
         "start_time": "2024-12-17 18:00:37",
         "expected_end_time": "2024-12-18 04:15:00",
@@ -39,20 +39,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-12-18 07:23:43",
+        "time_stamp": "2024-12-18 08:32:41",
         "num_of_customers": 36,
         "start_time": "2024-12-17 14:40:49",
         "expected_end_time": "",
         "latitude": 46.352637033318636,
         "longitude": -72.54930807104243,
-        "outage_status": "Work assigned",
+        "outage_status": "Crew at work",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "9233",
         "code": ""
     },
     {
-        "time_stamp": "2024-12-18 07:23:43",
+        "time_stamp": "2024-12-18 08:32:41",
+        "num_of_customers": 3248,
+        "start_time": "2024-12-18 02:32:27",
+        "expected_end_time": "2024-12-18 04:30:00",
+        "latitude": 45.47433237858111,
+        "longitude": -73.64412062560399,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "0217",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-12-18 08:32:41",
         "num_of_customers": 2,
         "start_time": "2024-12-17 23:33:18",
         "expected_end_time": "2024-12-18 04:45:00",
@@ -65,7 +78,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-12-18 07:23:43",
+        "time_stamp": "2024-12-18 08:32:41",
+        "num_of_customers": 2689,
+        "start_time": "2024-12-18 03:05:09",
+        "expected_end_time": "",
+        "latitude": 45.91482073148847,
+        "longitude": -72.41776678177553,
+        "outage_status": "NA",
+        "ignore": "4",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "2117",
+        "code": ""
+    },
+    {
+        "time_stamp": "2024-12-18 08:32:41",
         "num_of_customers": 5,
         "start_time": "2024-12-17 20:36:59",
         "expected_end_time": "2024-12-18 03:45:00",
@@ -78,16 +104,16 @@
         "code": ""
     },
     {
-        "time_stamp": "2024-12-18 07:23:43",
-        "num_of_customers": 27,
-        "start_time": "2024-12-18 00:47:12",
-        "expected_end_time": "2024-12-18 02:45:00",
-        "latitude": 45.64286432311036,
-        "longitude": -73.50385281875333,
+        "time_stamp": "2024-12-18 08:32:41",
+        "num_of_customers": 300,
+        "start_time": "2024-12-18 02:24:58",
+        "expected_end_time": "2024-12-18 04:45:00",
+        "latitude": 47.082477655321775,
+        "longitude": -71.42714963151965,
         "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "0119",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "9070",
         "code": ""
     }
 ]
