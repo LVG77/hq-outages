@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2025-02-09 10:24:57",
+        "time_stamp": "2025-02-09 11:17:51",
         "num_of_customers": 75,
         "start_time": "2025-02-08 18:57:34",
         "expected_end_time": "2025-02-09 08:15:00",
@@ -13,20 +13,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-02-09 10:24:57",
+        "time_stamp": "2025-02-09 11:17:51",
         "num_of_customers": 2,
         "start_time": "2025-02-09 03:21:12",
-        "expected_end_time": "2025-02-09 05:15:00",
+        "expected_end_time": "2025-02-09 08:15:00",
         "latitude": 45.68865209204549,
         "longitude": -75.65397255793255,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
         "municipality": "9431",
         "code": ""
     },
     {
-        "time_stamp": "2025-02-09 10:24:57",
+        "time_stamp": "2025-02-09 11:17:51",
         "num_of_customers": 507,
         "start_time": "2025-02-09 04:29:48",
         "expected_end_time": "2025-02-09 06:30:00",
@@ -39,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-02-09 10:24:57",
+        "time_stamp": "2025-02-09 11:17:51",
         "num_of_customers": 128,
         "start_time": "2025-02-08 23:52:47",
         "expected_end_time": "2025-02-09 08:15:00",
@@ -52,7 +52,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-02-09 10:24:57",
+        "time_stamp": "2025-02-09 11:17:51",
+        "num_of_customers": 133,
+        "start_time": "2025-02-09 05:03:56",
+        "expected_end_time": "2025-02-09 07:15:00",
+        "latitude": 45.085316324501925,
+        "longitude": -74.02142489405536,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5128",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-02-09 11:17:51",
         "num_of_customers": 8,
         "start_time": "2025-02-08 21:58:58",
         "expected_end_time": "2025-02-09 18:15:00",
