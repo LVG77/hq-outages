@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2025-03-27 09:28:17",
+        "time_stamp": "2025-03-27 10:28:49",
         "num_of_customers": 3,
         "start_time": "2025-03-26 16:40:39",
         "expected_end_time": "2025-03-27 09:15:00",
@@ -10,6 +10,19 @@
         "ignore": "5",
         "cause_of_outage": "Damage due to vegetation",
         "municipality": "4770",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-03-27 10:28:49",
+        "num_of_customers": 5,
+        "start_time": "2025-03-27 05:31:39",
+        "expected_end_time": "2025-03-27 07:15:00",
+        "latitude": 46.11529297539085,
+        "longitude": -74.57682512161725,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "7305",
         "code": ""
     }
 ]
