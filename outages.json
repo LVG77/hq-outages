@@ -1,9 +1,22 @@
 [
     {
-        "time_stamp": "2025-04-07 10:30:25",
+        "time_stamp": "2025-04-07 11:21:59",
+        "num_of_customers": 2,
+        "start_time": "2025-04-07 06:53:33",
+        "expected_end_time": "",
+        "latitude": 45.508006193837105,
+        "longitude": -73.50276817089751,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7335",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-07 11:21:59",
         "num_of_customers": 13,
         "start_time": "2025-04-07 04:44:06",
-        "expected_end_time": "2025-04-07 06:45:00",
+        "expected_end_time": "2025-04-07 12:15:00",
         "latitude": 45.348279036151396,
         "longitude": -73.16385820376718,
         "outage_status": "NA",
@@ -13,20 +26,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-07 10:30:25",
-        "num_of_customers": 2,
-        "start_time": "2025-04-07 04:09:14",
-        "expected_end_time": "",
-        "latitude": 45.08808210525487,
-        "longitude": -73.50299598202315,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "6171",
-        "code": ""
-    },
-    {
-        "time_stamp": "2025-04-07 10:30:25",
+        "time_stamp": "2025-04-07 11:21:59",
         "num_of_customers": 29,
         "start_time": "2025-04-07 06:04:02",
         "expected_end_time": "2025-04-07 10:15:00",
@@ -39,20 +39,46 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-07 10:30:25",
+        "time_stamp": "2025-04-07 11:21:59",
         "num_of_customers": 8,
         "start_time": "2025-04-07 06:10:23",
-        "expected_end_time": "",
+        "expected_end_time": "2025-04-07 08:15:00",
         "latitude": 46.057752232825386,
         "longitude": -71.93042607051976,
         "outage_status": "NA",
-        "ignore": "",
-        "cause_of_outage": null,
+        "ignore": "3",
+        "cause_of_outage": "Accident or incident",
         "municipality": "9359",
         "code": ""
     },
     {
-        "time_stamp": "2025-04-07 10:30:25",
+        "time_stamp": "2025-04-07 11:21:59",
+        "num_of_customers": 14,
+        "start_time": "2025-04-07 06:37:26",
+        "expected_end_time": "2025-04-07 08:45:00",
+        "latitude": 46.801534826038896,
+        "longitude": -71.183574819001,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4386",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-07 11:21:59",
+        "num_of_customers": 54,
+        "start_time": "2025-04-07 06:12:29",
+        "expected_end_time": "2025-04-07 08:15:00",
+        "latitude": 45.719229225045346,
+        "longitude": -75.45320182074718,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4773",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-07 11:21:59",
         "num_of_customers": 110,
         "start_time": "2025-04-06 18:13:14",
         "expected_end_time": "2025-04-07 10:15:00",
