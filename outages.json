@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2025-04-25 10:29:34",
+        "time_stamp": "2025-04-25 11:21:53",
         "num_of_customers": 1,
         "start_time": "2025-04-24 22:25:17",
         "expected_end_time": "2025-04-25 08:15:00",
@@ -13,10 +13,62 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-25 10:29:34",
+        "time_stamp": "2025-04-25 11:21:53",
+        "num_of_customers": 1,
+        "start_time": "2025-04-24 23:44:48",
+        "expected_end_time": "2025-04-25 09:45:00",
+        "latitude": 45.85722748464818,
+        "longitude": -70.63921460645423,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6831",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-25 11:21:53",
+        "num_of_customers": 2,
+        "start_time": "2025-04-25 02:21:00",
+        "expected_end_time": "2025-04-25 08:30:00",
+        "latitude": 45.06956239638243,
+        "longitude": -73.48437028016184,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6171",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-25 11:21:53",
+        "num_of_customers": 1,
+        "start_time": "2025-04-25 02:56:20",
+        "expected_end_time": "2025-04-25 09:00:00",
+        "latitude": 45.51044046704327,
+        "longitude": -72.79417075030989,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "8581",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-25 11:21:53",
+        "num_of_customers": 15,
+        "start_time": "2025-04-25 07:04:00",
+        "expected_end_time": "",
+        "latitude": 45.52107382682803,
+        "longitude": -73.69458546527042,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "0121",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-25 11:21:53",
         "num_of_customers": 4,
         "start_time": "2025-04-25 04:57:15",
-        "expected_end_time": "2025-04-25 07:00:00",
+        "expected_end_time": "2025-04-25 08:15:00",
         "latitude": 45.31797882383519,
         "longitude": -73.88256496221513,
         "outage_status": "NA",
@@ -26,7 +78,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-25 10:29:34",
+        "time_stamp": "2025-04-25 11:21:53",
         "num_of_customers": 8,
         "start_time": "2025-04-24 23:59:40",
         "expected_end_time": "2025-04-25 07:15:00",
@@ -39,42 +91,29 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-25 10:29:34",
+        "time_stamp": "2025-04-25 11:21:53",
         "num_of_customers": 58,
         "start_time": "2025-04-25 03:20:55",
         "expected_end_time": "2025-04-25 07:15:00",
         "latitude": 45.155770648203244,
         "longitude": -73.75395182366616,
-        "outage_status": "Work assigned",
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "6327",
         "code": ""
     },
     {
-        "time_stamp": "2025-04-25 10:29:34",
+        "time_stamp": "2025-04-25 11:21:53",
         "num_of_customers": 1,
         "start_time": "2025-04-25 03:43:46",
-        "expected_end_time": "",
+        "expected_end_time": "2025-04-25 09:45:00",
         "latitude": 45.22368488550454,
         "longitude": -73.81671518822094,
         "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "7830",
-        "code": ""
-    },
-    {
-        "time_stamp": "2025-04-25 10:29:34",
-        "num_of_customers": 11,
-        "start_time": "2025-04-25 02:36:20",
-        "expected_end_time": "",
-        "latitude": 46.007140791518054,
-        "longitude": -73.7271035117168,
-        "outage_status": "Crew at work",
-        "ignore": "3",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "8377",
         "code": ""
     }
 ]
