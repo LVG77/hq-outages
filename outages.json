@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2025-04-26 03:04:55",
+        "time_stamp": "2025-04-26 03:37:31",
         "num_of_customers": 3,
         "start_time": "2025-04-25 22:15:49",
         "expected_end_time": "2025-04-26 00:15:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-26 03:04:55",
+        "time_stamp": "2025-04-26 03:37:31",
         "num_of_customers": 4,
         "start_time": "2025-04-25 22:01:38",
         "expected_end_time": "2025-04-26 00:30:00",
@@ -26,33 +26,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-04-26 03:04:55",
-        "num_of_customers": 4,
-        "start_time": "2025-04-25 21:11:33",
-        "expected_end_time": "2025-04-25 23:15:00",
-        "latitude": 45.205647214418676,
-        "longitude": -73.07538272179721,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "5892",
-        "code": ""
-    },
-    {
-        "time_stamp": "2025-04-26 03:04:55",
-        "num_of_customers": 2,
-        "start_time": "2025-04-25 20:55:09",
-        "expected_end_time": "2025-04-26 03:00:00",
-        "latitude": 46.541601324943976,
-        "longitude": -71.082439644182,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "7629",
-        "code": ""
-    },
-    {
-        "time_stamp": "2025-04-26 03:04:55",
+        "time_stamp": "2025-04-26 03:37:31",
         "num_of_customers": 1,
         "start_time": "2025-04-25 18:54:59",
         "expected_end_time": "2025-04-26 01:15:00",
@@ -62,6 +36,19 @@
         "ignore": "1",
         "cause_of_outage": "Equipment failure",
         "municipality": "5707",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-04-26 03:37:31",
+        "num_of_customers": 5,
+        "start_time": "2025-04-25 23:11:59",
+        "expected_end_time": "2025-04-26 00:45:00",
+        "latitude": 48.576146356077736,
+        "longitude": -71.55563221273074,
+        "outage_status": "Crew at work",
+        "ignore": "3",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "9109",
         "code": ""
     }
 ]
