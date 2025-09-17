@@ -1,9 +1,9 @@
 [
     {
-        "time_stamp": "2025-09-17 06:37:33",
+        "time_stamp": "2025-09-17 07:23:42",
         "num_of_customers": 1,
         "start_time": "2025-09-16 20:29:50",
-        "expected_end_time": "",
+        "expected_end_time": "2025-09-17 07:15:00",
         "latitude": 45.6732953373848,
         "longitude": -72.134421857969,
         "outage_status": "Crew on the way",
@@ -13,10 +13,10 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-09-17 06:37:33",
+        "time_stamp": "2025-09-17 07:23:42",
         "num_of_customers": 932,
         "start_time": "2025-09-17 00:06:35",
-        "expected_end_time": "",
+        "expected_end_time": "2025-09-17 04:15:00",
         "latitude": 45.32087524506458,
         "longitude": -71.53058832023103,
         "outage_status": "Crew on the way",
@@ -26,10 +26,10 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-09-17 06:37:33",
+        "time_stamp": "2025-09-17 07:23:42",
         "num_of_customers": 1,
         "start_time": "2025-09-17 00:44:47",
-        "expected_end_time": "2025-09-17 02:45:00",
+        "expected_end_time": "",
         "latitude": 45.71015653366707,
         "longitude": -73.421891322027,
         "outage_status": "NA",
@@ -39,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-09-17 06:37:33",
+        "time_stamp": "2025-09-17 07:23:42",
         "num_of_customers": 698,
         "start_time": "2025-09-16 20:28:32",
         "expected_end_time": "2025-09-17 07:15:00",
@@ -49,6 +49,19 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "2024",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-09-17 07:23:42",
+        "num_of_customers": 2607,
+        "start_time": "2025-09-17 02:46:45",
+        "expected_end_time": "2025-09-17 04:45:00",
+        "latitude": 45.54246241036177,
+        "longitude": -73.5466097224866,
+        "outage_status": "Crew on the way",
+        "ignore": "3",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "1000",
         "code": ""
     }
 ]
