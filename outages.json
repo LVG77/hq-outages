@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2025-09-21 10:24:08",
+        "time_stamp": "2025-09-21 11:18:26",
         "num_of_customers": 9,
         "start_time": "2025-09-21 03:41:39",
         "expected_end_time": "2025-09-21 13:15:00",
@@ -13,28 +13,54 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-09-21 10:24:08",
+        "time_stamp": "2025-09-21 11:18:26",
         "num_of_customers": 25,
         "start_time": "2025-09-21 05:30:13",
-        "expected_end_time": "2025-09-21 07:30:00",
+        "expected_end_time": "2025-09-21 08:15:00",
         "latitude": 45.310645877393924,
         "longitude": -73.25428082164944,
-        "outage_status": "NA",
+        "outage_status": "Crew at work",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "7110",
         "code": ""
     },
     {
-        "time_stamp": "2025-09-21 10:24:08",
+        "time_stamp": "2025-09-21 11:18:26",
         "num_of_customers": 1846,
         "start_time": "2025-09-21 05:48:49",
         "expected_end_time": "2025-09-21 07:45:00",
         "latitude": 45.53035660351511,
         "longitude": -73.58486348815953,
-        "outage_status": "NA",
-        "ignore": "4",
+        "outage_status": "Crew on the way",
+        "ignore": "3",
         "cause_of_outage": "Accident or incident",
+        "municipality": "1000",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-09-21 11:18:26",
+        "num_of_customers": 33,
+        "start_time": "2025-09-21 04:52:29",
+        "expected_end_time": "2025-09-21 08:15:00",
+        "latitude": 45.31119108077568,
+        "longitude": -73.25484967802218,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7110",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-09-21 11:18:26",
+        "num_of_customers": 278,
+        "start_time": "2025-09-21 06:56:09",
+        "expected_end_time": "",
+        "latitude": 45.54481667877091,
+        "longitude": -73.57428396336282,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
         "municipality": "1000",
         "code": ""
     }
