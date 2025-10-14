@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2025-10-14 04:30:08",
+        "time_stamp": "2025-10-14 05:25:20",
         "num_of_customers": 139,
         "start_time": "2025-10-13 19:26:33",
         "expected_end_time": "2025-10-14 02:15:00",
@@ -13,10 +13,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-10-14 04:30:08",
+        "time_stamp": "2025-10-14 05:25:20",
+        "num_of_customers": 4,
+        "start_time": "2025-10-14 01:01:57",
+        "expected_end_time": "",
+        "latitude": 45.484371061004495,
+        "longitude": -75.56622600754088,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "2375",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-10-14 05:25:20",
         "num_of_customers": 135,
         "start_time": "2025-10-13 23:23:04",
-        "expected_end_time": "2025-10-14 01:15:00",
+        "expected_end_time": "",
         "latitude": 47.21832871710587,
         "longitude": -72.86537068170058,
         "outage_status": "Crew on the way",
@@ -26,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-10-14 04:30:08",
+        "time_stamp": "2025-10-14 05:25:20",
         "num_of_customers": 4,
         "start_time": "2025-10-13 22:19:28",
         "expected_end_time": "2025-10-14 03:15:00",
@@ -39,7 +52,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-10-14 04:30:08",
+        "time_stamp": "2025-10-14 05:25:20",
         "num_of_customers": 4,
         "start_time": "2025-10-13 11:24:40",
         "expected_end_time": "2025-10-14 17:15:00",
@@ -49,6 +62,19 @@
         "ignore": "1",
         "cause_of_outage": "Equipment failure",
         "municipality": "8065",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-10-14 05:25:20",
+        "num_of_customers": 264,
+        "start_time": "2025-10-14 01:01:57",
+        "expected_end_time": "",
+        "latitude": 45.48393530149525,
+        "longitude": -75.60324479955345,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "2375",
         "code": ""
     }
 ]
