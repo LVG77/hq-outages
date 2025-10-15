@@ -1,9 +1,22 @@
 [
     {
-        "time_stamp": "2025-10-15 10:29:53",
+        "time_stamp": "2025-10-15 11:22:13",
+        "num_of_customers": 16,
+        "start_time": "2025-10-15 06:38:42",
+        "expected_end_time": "2025-10-15 08:30:00",
+        "latitude": 45.369897247446566,
+        "longitude": -73.74371723597783,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1784",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-10-15 11:22:13",
         "num_of_customers": 1,
         "start_time": "2025-10-15 04:47:02",
-        "expected_end_time": "2025-10-15 06:30:00",
+        "expected_end_time": "2025-10-15 09:15:00",
         "latitude": 45.48296349894088,
         "longitude": -73.58508202276964,
         "outage_status": "Work assigned",
@@ -13,7 +26,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-10-15 10:29:53",
+        "time_stamp": "2025-10-15 11:22:13",
         "num_of_customers": 10,
         "start_time": "2025-10-14 22:30:23",
         "expected_end_time": "2025-10-15 11:45:00",
@@ -26,16 +39,29 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-10-15 10:29:53",
+        "time_stamp": "2025-10-15 11:22:13",
         "num_of_customers": 458,
         "start_time": "2025-10-15 06:02:00",
-        "expected_end_time": "",
+        "expected_end_time": "2025-10-15 08:00:00",
         "latitude": 46.689622683632194,
         "longitude": -71.45937445930656,
         "outage_status": "Work assigned",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "7716",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-10-15 11:22:13",
+        "num_of_customers": 2122,
+        "start_time": "2025-10-15 06:38:29",
+        "expected_end_time": "2025-10-15 08:30:00",
+        "latitude": 45.635081682728725,
+        "longitude": -73.84110660504253,
+        "outage_status": "Crew on the way",
+        "ignore": "4",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "9371",
         "code": ""
     }
 ]
