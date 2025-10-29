@@ -1,32 +1,32 @@
 [
     {
-        "time_stamp": "2025-10-29 09:28:18",
-        "num_of_customers": 5,
-        "start_time": "2025-10-29 03:24:22",
-        "expected_end_time": "2025-10-29 05:30:00",
-        "latitude": 45.59920656443137,
-        "longitude": -70.92871945252138,
-        "outage_status": "Crew on the way",
+        "time_stamp": "2025-10-29 10:30:01",
+        "num_of_customers": 1,
+        "start_time": "2025-10-29 05:16:56",
+        "expected_end_time": "2025-10-29 14:30:00",
+        "latitude": 45.58558447648492,
+        "longitude": -70.87007978441038,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "4113",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-10-29 10:30:01",
+        "num_of_customers": 32,
+        "start_time": "2025-10-29 06:05:59",
+        "expected_end_time": "",
+        "latitude": 45.64972245815287,
+        "longitude": -73.57724783742425,
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
-        "municipality": "4872",
+        "municipality": "0119",
         "code": ""
     },
     {
-        "time_stamp": "2025-10-29 09:28:18",
-        "num_of_customers": 710,
-        "start_time": "2025-10-28 23:53:40",
-        "expected_end_time": "2025-10-29 05:45:00",
-        "latitude": 45.956837946887966,
-        "longitude": -72.31886526772126,
-        "outage_status": "Crew at work",
-        "ignore": "5",
-        "cause_of_outage": "Accident or incident",
-        "municipality": "4809",
-        "code": ""
-    },
-    {
-        "time_stamp": "2025-10-29 09:28:18",
+        "time_stamp": "2025-10-29 10:30:01",
         "num_of_customers": 23,
         "start_time": "2025-10-28 09:46:39",
         "expected_end_time": "2025-10-29 08:45:00",
@@ -36,19 +36,6 @@
         "ignore": "6",
         "cause_of_outage": null,
         "municipality": "5410",
-        "code": ""
-    },
-    {
-        "time_stamp": "2025-10-29 09:28:18",
-        "num_of_customers": 8,
-        "start_time": "2025-10-28 13:11:27",
-        "expected_end_time": "",
-        "latitude": 46.827309493577886,
-        "longitude": -71.15412429175672,
-        "outage_status": "NA",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "4257",
         "code": ""
     }
 ]
