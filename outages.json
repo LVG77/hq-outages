@@ -1,32 +1,58 @@
 [
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
+        "num_of_customers": 1654,
+        "start_time": "2025-11-28 23:38:04",
+        "expected_end_time": "2025-11-29 01:30:00",
+        "latitude": 45.243935486025556,
+        "longitude": -73.58235120927942,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "7992",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 23,
         "start_time": "2025-11-28 18:05:32",
         "expected_end_time": "2025-11-29 04:45:00",
         "latitude": 46.835971184022654,
         "longitude": -71.24736614245431,
-        "outage_status": "Work assigned",
+        "outage_status": "Crew at work",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "5410",
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 1,
         "start_time": "2025-11-28 15:53:36",
         "expected_end_time": "2025-11-29 09:15:00",
         "latitude": 46.82868113315856,
         "longitude": -71.21959905897529,
-        "outage_status": "Crew on the way",
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "5410",
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
+        "num_of_customers": 1,
+        "start_time": "2025-11-28 23:53:53",
+        "expected_end_time": "",
+        "latitude": 45.4947545314093,
+        "longitude": -73.56302880902909,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1000",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 421,
         "start_time": "2025-11-28 18:31:16",
         "expected_end_time": "2025-11-29 03:15:00",
@@ -39,7 +65,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 16,
         "start_time": "2025-11-28 17:23:59",
         "expected_end_time": "2025-11-29 12:15:00",
@@ -52,7 +78,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 10,
         "start_time": "2025-11-28 18:56:21",
         "expected_end_time": "2025-11-29 03:15:00",
@@ -65,20 +91,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 12,
         "start_time": "2025-11-28 14:31:45",
-        "expected_end_time": "2025-11-29 00:00:00",
+        "expected_end_time": "2025-11-29 03:15:00",
         "latitude": 45.64996425694378,
         "longitude": -73.56057110472821,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "3",
+        "cause_of_outage": "Accident or incident",
         "municipality": "0119",
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 242,
         "start_time": "2025-11-28 21:05:45",
         "expected_end_time": "2025-11-29 06:15:00",
@@ -91,7 +117,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 3,
         "start_time": "2025-11-28 20:55:44",
         "expected_end_time": "2025-11-29 01:00:00",
@@ -104,16 +130,42 @@
         "code": ""
     },
     {
-        "time_stamp": "2025-11-29 04:31:55",
+        "time_stamp": "2025-11-29 05:27:21",
         "num_of_customers": 2,
         "start_time": "2025-11-28 16:07:32",
         "expected_end_time": "2025-11-29 00:15:00",
         "latitude": 45.04854305107623,
         "longitude": -72.38433393220147,
-        "outage_status": "Work assigned",
+        "outage_status": "Crew on the way",
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "5359",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-11-29 05:27:21",
+        "num_of_customers": 6,
+        "start_time": "2025-11-28 23:06:00",
+        "expected_end_time": "2025-11-29 01:15:00",
+        "latitude": 45.30460401906555,
+        "longitude": -72.37368872693852,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "6585",
+        "code": ""
+    },
+    {
+        "time_stamp": "2025-11-29 05:27:21",
+        "num_of_customers": 27,
+        "start_time": "2025-11-28 23:06:00",
+        "expected_end_time": "2025-11-29 01:30:00",
+        "latitude": 45.24744424917527,
+        "longitude": -72.40345632117383,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1442",
         "code": ""
     }
 ]
