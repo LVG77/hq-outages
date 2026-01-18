@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2026-01-18 12:55:52",
+        "time_stamp": "2026-01-18 13:35:03",
         "num_of_customers": 5,
         "start_time": "2026-01-18 06:56:37",
         "expected_end_time": "2026-01-18 09:00:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-01-18 12:55:52",
+        "time_stamp": "2026-01-18 13:35:03",
         "num_of_customers": 40,
         "start_time": "2026-01-18 06:40:25",
         "expected_end_time": "2026-01-18 08:45:00",
@@ -26,20 +26,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-01-18 12:55:52",
-        "num_of_customers": 6,
-        "start_time": "2026-01-18 07:15:53",
-        "expected_end_time": "2026-01-18 09:15:00",
-        "latitude": 45.255964200804755,
-        "longitude": -74.10938513743365,
-        "outage_status": "Work assigned",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "5707",
-        "code": ""
-    },
-    {
-        "time_stamp": "2026-01-18 12:55:52",
+        "time_stamp": "2026-01-18 13:35:03",
         "num_of_customers": 10,
         "start_time": "2026-01-18 07:26:40",
         "expected_end_time": "2026-01-18 09:30:00",
@@ -52,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-01-18 12:55:52",
+        "time_stamp": "2026-01-18 13:35:03",
         "num_of_customers": 6,
         "start_time": "2026-01-18 07:29:32",
         "expected_end_time": "2026-01-18 09:30:00",
@@ -65,7 +52,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-01-18 12:55:52",
+        "time_stamp": "2026-01-18 13:35:03",
+        "num_of_customers": 10,
+        "start_time": "2026-01-18 08:04:06",
+        "expected_end_time": "",
+        "latitude": 45.47442269637546,
+        "longitude": -73.64645488437039,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "0217",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-01-18 13:35:03",
+        "num_of_customers": 1,
+        "start_time": "2026-01-18 02:55:00",
+        "expected_end_time": "2026-01-18 10:00:00",
+        "latitude": 46.47231140469972,
+        "longitude": -72.43698167964693,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7476",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-01-18 13:35:03",
         "num_of_customers": 1,
         "start_time": "2026-01-17 23:04:36",
         "expected_end_time": "2026-01-18 16:00:00",
@@ -78,7 +91,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-01-18 12:55:52",
+        "time_stamp": "2026-01-18 13:35:03",
         "num_of_customers": 10,
         "start_time": "2026-01-18 05:53:33",
         "expected_end_time": "2026-01-18 11:15:00",
@@ -88,6 +101,45 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "0105",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-01-18 13:35:03",
+        "num_of_customers": 42,
+        "start_time": "2026-01-18 08:05:21",
+        "expected_end_time": "2026-01-18 16:15:00",
+        "latitude": 45.58476065856752,
+        "longitude": -73.64975447112555,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "0111",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-01-18 13:35:03",
+        "num_of_customers": 14,
+        "start_time": "2026-01-18 08:05:45",
+        "expected_end_time": "2026-01-18 16:15:00",
+        "latitude": 45.582581821586096,
+        "longitude": -73.64982290007505,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "0111",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-01-18 13:35:03",
+        "num_of_customers": 926,
+        "start_time": "2026-01-18 08:18:50",
+        "expected_end_time": "",
+        "latitude": 45.46948703161221,
+        "longitude": -73.45520967179374,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1535",
         "code": ""
     }
 ]
