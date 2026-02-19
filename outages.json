@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2026-02-19 08:56:57",
+        "time_stamp": "2026-02-19 09:58:37",
         "num_of_customers": 31,
         "start_time": "2026-02-19 01:43:07",
         "expected_end_time": "2026-02-19 05:15:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-02-19 08:56:57",
+        "time_stamp": "2026-02-19 09:58:37",
         "num_of_customers": 4,
         "start_time": "2026-02-18 23:45:44",
         "expected_end_time": "",
@@ -26,16 +26,42 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-02-19 08:56:57",
-        "num_of_customers": 19,
-        "start_time": "2026-02-18 18:53:52",
+        "time_stamp": "2026-02-19 09:58:37",
+        "num_of_customers": 1,
+        "start_time": "2026-02-19 04:36:13",
+        "expected_end_time": "2026-02-19 06:30:00",
+        "latitude": 45.084197545502775,
+        "longitude": -71.76852205416739,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "2096",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-19 09:58:37",
+        "num_of_customers": 14,
+        "start_time": "2026-02-19 04:33:56",
         "expected_end_time": "",
-        "latitude": 45.41660377792928,
-        "longitude": -73.49630897122182,
+        "latitude": 46.843825398055834,
+        "longitude": -71.25462114726727,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "1769",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-19 09:58:37",
+        "num_of_customers": 19,
+        "start_time": "2026-02-19 04:43:32",
+        "expected_end_time": "2026-02-19 05:45:00",
+        "latitude": 45.3618363048544,
+        "longitude": -73.70546775649326,
         "outage_status": "Crew at work",
-        "ignore": "1",
-        "cause_of_outage": "Equipment failure",
-        "municipality": "4200",
+        "ignore": "5",
+        "cause_of_outage": "Damage due to vegetation",
+        "municipality": "1784",
         "code": ""
     }
 ]
