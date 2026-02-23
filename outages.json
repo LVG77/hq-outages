@@ -1,15 +1,54 @@
 [
     {
-        "time_stamp": "2026-02-23 06:12:25",
-        "num_of_customers": 7,
-        "start_time": "2026-02-22 21:17:40",
-        "expected_end_time": "2026-02-23 02:45:00",
-        "latitude": 46.90808452299195,
-        "longitude": -71.20630854047677,
+        "time_stamp": "2026-02-23 07:59:09",
+        "num_of_customers": 2,
+        "start_time": "2026-02-23 01:35:11",
+        "expected_end_time": "2026-02-23 03:30:00",
+        "latitude": 45.812236131140246,
+        "longitude": -74.22411016047823,
+        "outage_status": "Crew at work",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4652",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-23 07:59:09",
+        "num_of_customers": 320,
+        "start_time": "2026-02-23 01:36:56",
+        "expected_end_time": "2026-02-23 04:15:00",
+        "latitude": 47.821743941827926,
+        "longitude": -69.54014315956341,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
+        "municipality": "5575",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-23 07:59:09",
+        "num_of_customers": 1,
+        "start_time": "2026-02-23 01:05:32",
+        "expected_end_time": "2026-02-23 03:00:00",
+        "latitude": 45.36615556266049,
+        "longitude": -72.84677101289017,
         "outage_status": "Crew at work",
         "ignore": "1",
         "cause_of_outage": "Equipment failure",
-        "municipality": "1302",
+        "municipality": "1077",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-23 07:59:09",
+        "num_of_customers": 44,
+        "start_time": "2026-02-23 02:08:02",
+        "expected_end_time": "2026-02-23 04:15:00",
+        "latitude": 48.775035618379746,
+        "longitude": -79.0273109810884,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4479",
         "code": ""
     }
 ]
