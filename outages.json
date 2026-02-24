@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2026-02-24 04:59:19",
+        "time_stamp": "2026-02-24 06:04:25",
         "num_of_customers": 5,
         "start_time": "2026-02-23 23:12:50",
         "expected_end_time": "2026-02-24 01:15:00",
@@ -13,33 +13,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-02-24 04:59:19",
-        "num_of_customers": 3,
-        "start_time": "2026-02-23 20:21:48",
-        "expected_end_time": "2026-02-24 01:00:00",
-        "latitude": 46.44066505097212,
-        "longitude": -75.37867284200983,
-        "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "3765",
-        "code": ""
-    },
-    {
-        "time_stamp": "2026-02-24 04:59:19",
+        "time_stamp": "2026-02-24 06:04:25",
         "num_of_customers": 15,
         "start_time": "2026-02-23 16:17:37",
         "expected_end_time": "2026-02-24 01:45:00",
         "latitude": 46.53646196257825,
         "longitude": -70.07826892339736,
         "outage_status": "Crew at work",
-        "ignore": "",
-        "cause_of_outage": null,
+        "ignore": "5",
+        "cause_of_outage": "Accident or incident",
         "municipality": "7329",
         "code": ""
     },
     {
-        "time_stamp": "2026-02-24 04:59:19",
+        "time_stamp": "2026-02-24 06:04:25",
         "num_of_customers": 5,
         "start_time": "2026-02-23 19:29:54",
         "expected_end_time": "2026-02-24 03:15:00",
@@ -52,10 +39,23 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-02-24 04:59:19",
+        "time_stamp": "2026-02-24 06:04:25",
+        "num_of_customers": 11,
+        "start_time": "2026-02-23 23:54:50",
+        "expected_end_time": "2026-02-24 01:45:00",
+        "latitude": 46.771181074377516,
+        "longitude": -71.21053730128855,
+        "outage_status": "Crew on the way",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "4386",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-24 06:04:25",
         "num_of_customers": 38,
         "start_time": "2026-02-23 21:15:51",
-        "expected_end_time": "2026-02-24 00:30:00",
+        "expected_end_time": "2026-02-24 03:15:00",
         "latitude": 45.7931883826098,
         "longitude": -72.7929778303629,
         "outage_status": "Work assigned",
