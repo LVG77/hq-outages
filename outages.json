@@ -1,22 +1,35 @@
 [
     {
-        "time_stamp": "2026-02-27 09:53:53",
-        "num_of_customers": 1229,
+        "time_stamp": "2026-02-27 10:50:43",
+        "num_of_customers": 28,
         "start_time": "2026-02-27 03:41:12",
         "expected_end_time": "2026-02-27 05:45:00",
-        "latitude": 46.53464526661593,
-        "longitude": -72.3231038388377,
-        "outage_status": "Crew on the way",
+        "latitude": 46.530238230716584,
+        "longitude": -72.34126584049913,
+        "outage_status": "Crew at work",
         "ignore": "4",
         "cause_of_outage": "Accident or incident",
-        "municipality": "7689",
+        "municipality": "8713",
         "code": ""
     },
     {
-        "time_stamp": "2026-02-27 09:53:53",
+        "time_stamp": "2026-02-27 10:50:43",
+        "num_of_customers": 3,
+        "start_time": "2026-02-27 05:28:42",
+        "expected_end_time": "",
+        "latitude": 46.01988117735972,
+        "longitude": -73.60324270941521,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "7404",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-02-27 10:50:43",
         "num_of_customers": 12,
         "start_time": "2026-02-27 03:33:53",
-        "expected_end_time": "2026-02-27 05:30:00",
+        "expected_end_time": "2026-02-27 07:15:00",
         "latitude": 45.532402770644055,
         "longitude": -73.8250248925931,
         "outage_status": "Work assigned",
@@ -26,15 +39,15 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-02-27 09:53:53",
+        "time_stamp": "2026-02-27 10:50:43",
         "num_of_customers": 10,
         "start_time": "2026-02-27 03:38:05",
         "expected_end_time": "2026-02-27 05:45:00",
         "latitude": 45.5207252377217,
         "longitude": -73.8208274592803,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
+        "outage_status": "Crew at work",
+        "ignore": "1",
+        "cause_of_outage": "Equipment failure",
         "municipality": "8641",
         "code": ""
     }
