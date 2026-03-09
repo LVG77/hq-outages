@@ -1,6 +1,6 @@
 [
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 3,
         "start_time": "2026-03-08 21:11:47",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -13,7 +13,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 5,
         "start_time": "2026-03-08 21:11:47",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -26,7 +26,20 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
+        "num_of_customers": 1,
+        "start_time": "2026-03-09 03:44:05",
+        "expected_end_time": "2026-03-09 09:30:00",
+        "latitude": 46.15408200175046,
+        "longitude": -70.97380276180284,
+        "outage_status": "Crew at work",
+        "ignore": "5",
+        "cause_of_outage": "Equipment failure",
+        "municipality": "8284",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 72,
         "start_time": "2026-03-09 01:37:06",
         "expected_end_time": "2026-03-09 17:15:00",
@@ -39,20 +52,33 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 1,
-        "start_time": "2026-03-09 00:56:31",
+        "start_time": "2026-03-09 06:33:20",
         "expected_end_time": "",
-        "latitude": 45.03101244468917,
-        "longitude": -72.30840996789921,
-        "outage_status": "Crew on the way",
+        "latitude": 46.86217666763752,
+        "longitude": -71.54478038376513,
+        "outage_status": "NA",
         "ignore": "",
         "cause_of_outage": null,
-        "municipality": "5359",
+        "municipality": "8374",
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
+        "num_of_customers": 1,
+        "start_time": "2026-03-09 06:32:04",
+        "expected_end_time": "",
+        "latitude": 46.75735355569865,
+        "longitude": -71.20688415132062,
+        "outage_status": "NA",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "8044",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 1,
         "start_time": "2026-03-08 21:11:47",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -65,7 +91,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 1,
         "start_time": "2026-03-08 21:11:45",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -78,7 +104,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 4,
         "start_time": "2026-03-08 21:11:46",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -91,7 +117,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 1,
         "start_time": "2026-03-08 21:11:46",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -104,7 +130,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-09 10:01:53",
+        "time_stamp": "2026-03-09 10:54:34",
         "num_of_customers": 12,
         "start_time": "2026-03-08 21:11:45",
         "expected_end_time": "2026-03-09 11:15:00",
@@ -114,19 +140,6 @@
         "ignore": "",
         "cause_of_outage": null,
         "municipality": "8044",
-        "code": ""
-    },
-    {
-        "time_stamp": "2026-03-09 10:01:53",
-        "num_of_customers": 16,
-        "start_time": "2026-03-09 03:44:05",
-        "expected_end_time": "",
-        "latitude": 46.14683678369446,
-        "longitude": -70.97907293587025,
-        "outage_status": "Crew on the way",
-        "ignore": "",
-        "cause_of_outage": null,
-        "municipality": "8284",
         "code": ""
     }
 ]
