@@ -1,9 +1,35 @@
 [
     {
-        "time_stamp": "2026-03-29 20:43:45",
+        "time_stamp": "2026-03-29 21:40:45",
+        "num_of_customers": 8,
+        "start_time": "2026-03-29 16:51:40",
+        "expected_end_time": "2026-03-29 20:00:00",
+        "latitude": 45.51226016327156,
+        "longitude": -73.63235359644594,
+        "outage_status": "Crew at work",
+        "ignore": "6",
+        "cause_of_outage": null,
+        "municipality": "1000",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-03-29 21:40:45",
+        "num_of_customers": 4,
+        "start_time": "2026-03-29 17:01:46",
+        "expected_end_time": "2026-03-29 19:00:00",
+        "latitude": 45.94943728984116,
+        "longitude": -74.39729630402194,
+        "outage_status": "Work assigned",
+        "ignore": "",
+        "cause_of_outage": null,
+        "municipality": "5850",
+        "code": ""
+    },
+    {
+        "time_stamp": "2026-03-29 21:40:45",
         "num_of_customers": 15,
         "start_time": "2026-03-29 10:04:58",
-        "expected_end_time": "2026-03-29 17:15:00",
+        "expected_end_time": "",
         "latitude": 45.44634636967818,
         "longitude": -73.69073255332498,
         "outage_status": "Crew on the way",
@@ -13,7 +39,7 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-29 20:43:45",
+        "time_stamp": "2026-03-29 21:40:45",
         "num_of_customers": 1,
         "start_time": "2026-03-29 01:13:10",
         "expected_end_time": "2026-03-29 18:15:00",
@@ -26,16 +52,16 @@
         "code": ""
     },
     {
-        "time_stamp": "2026-03-29 20:43:45",
-        "num_of_customers": 11,
-        "start_time": "2026-03-29 16:04:06",
-        "expected_end_time": "2026-03-29 18:00:00",
-        "latitude": 45.47414440959432,
-        "longitude": -74.30683602023352,
-        "outage_status": "Crew at work",
-        "ignore": "6",
+        "time_stamp": "2026-03-29 21:40:45",
+        "num_of_customers": 25,
+        "start_time": "2026-03-29 17:07:31",
+        "expected_end_time": "2026-03-29 19:15:00",
+        "latitude": 46.86509699878557,
+        "longitude": -71.28144458947402,
+        "outage_status": "Crew on the way",
+        "ignore": "",
         "cause_of_outage": null,
-        "municipality": "5509",
+        "municipality": "1769",
         "code": ""
     }
 ]
